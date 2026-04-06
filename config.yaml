@@ -5,7 +5,7 @@ repo_name: "LLM-safety-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 500  # ori: 10 papers, here we first set it to be 1600 to get all previous papers
+max_results: 10  # ori: 10 papers, here we first set it to be 1600 to get all previous papers
 
 publish_readme: True
 publish_gitpage: False
