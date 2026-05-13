@@ -360,21 +360,21 @@ def json_to_md(filename,md_filename,
         if show_badge == True:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Ytang520/cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/Ytang520/"
-                     f"cv-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Ytang520/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/Ytang520/"
-                     f"cv-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Ytang520/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/Ytang520/"
-                     f"cv-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Ytang520/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/Ytang520/"
-                     f"cv-arxiv-daily/issues\n\n"))
+                     f"contributors/lrandirene/prompt_injection_research_daily_arxiv.svg?style=for-the-badge\n"))
+            f.write((f"[contributors-url]: https://github.com/lrandirene/"
+                     f"prompt_injection_research_daily_arxiv/graphs/contributors\n"))
+            f.write((f"[forks-shield]: https://img.shields.io/github/forks/lrandirene/"
+                     f"prompt_injection_research_daily_arxiv.svg?style=for-the-badge\n"))
+            f.write((f"[forks-url]: https://github.com/lrandirene/"
+                     f"prompt_injection_research_daily_arxiv/network/members\n"))
+            f.write((f"[stars-shield]: https://img.shields.io/github/stars/lrandirene/"
+                     f"prompt_injection_research_daily_arxiv.svg?style=for-the-badge\n"))
+            f.write((f"[stars-url]: https://github.com/lrandirene/"
+                     f"prompt_injection_research_daily_arxiv/stargazers\n"))
+            f.write((f"[issues-shield]: https://img.shields.io/github/issues/lrandirene/"
+                     f"prompt_injection_research_daily_arxiv.svg?style=for-the-badge\n"))
+            f.write((f"[issues-url]: https://github.com/lrandirene/"
+                     f"prompt_injection_research_daily_arxiv/issues\n\n"))
                 
     logging.info(f"{task} finished")        
 

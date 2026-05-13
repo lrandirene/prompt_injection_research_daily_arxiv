@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Ytang520"
-repo_name: "LLM-safety-arxiv-daily"
+user_name: "lrandirene"
+repo_name: "prompt_injection_research_daily_arxiv"
 show_authors: True
 show_links: True
 show_badge: False
