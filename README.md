@@ -19,7 +19,7 @@
 |**2026-05-14**|**Hidden in Memory: Sleeper Memory Poisoning in LLM Agents**|Sidharth Pulipaka et.al.|[2605.15338](http://arxiv.org/abs/2605.15338)|null|
 |**2026-05-14**|**Web Agents Should Adopt the Plan-Then-Execute Paradigm**|Julien Piet et.al.|[2605.14290](http://arxiv.org/abs/2605.14290)|null|
 |**2026-05-13**|**No Attack Required: Semantic Fuzzing for Specification Violations in Agent Skills**|Ying Li et.al.|[2605.13044](http://arxiv.org/abs/2605.13044)|null|
-|**2026-05-12**|**IPI-proxy: An Intercepting Proxy for Red-Teaming Web-Browsing AI Agents Against Indirect Prompt Injection**| Chia-Pei et.al.|[2605.11868](http://arxiv.org/abs/2605.11868)|null|
+|**2026-05-12**|**IPI-proxy: An Intercepting Proxy for Red-Teaming Web-Browsing AI Agents Against Indirect Prompt Injection**|Chia-Pei et.al.|[2605.11868](http://arxiv.org/abs/2605.11868)|null|
 |**2026-05-11**|**The Granularity Mismatch in Agent Security: Argument-Level Provenance Solves Enforcement and Isolates the LLM Reasoning Bottleneck**|Linfeng Fan et.al.|[2605.11039](http://arxiv.org/abs/2605.11039)|null|
 |**2026-05-10**|**AgentShield: Deception-based Compromise Detection for Tool-using LLM Agents**|Yassin H. Rassul et.al.|[2605.11026](http://arxiv.org/abs/2605.11026)|null|
 |**2026-05-11**|**RUBEN: Rule-Based Explanations for Retrieval-Augmented LLM Systems**|Joel Rorseth et.al.|[2605.10862](http://arxiv.org/abs/2605.10862)|null|
@@ -472,7 +472,7 @@
 |**2025-12-29**|**Prompt Injection attack against LLM-integrated Applications**|Yi Liu et.al.|[2306.05499](http://arxiv.org/abs/2306.05499)|null|
 |**2023-05-05**|**Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection**|Kai Greshake et.al.|[2302.12173](http://arxiv.org/abs/2302.12173)|null|
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
-|**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|null|
+|**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
 <p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
 
