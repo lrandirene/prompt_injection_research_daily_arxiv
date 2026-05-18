@@ -1,6 +1,8 @@
 import os
 import re
 import json
+import time
+from typing import Optional
 import arxiv
 import yaml
 import logging
@@ -83,7 +85,53 @@ def sort_papers(papers):
     for key in keys:
         output[key] = papers[key]
     return output    
-import requests
+
+def create_arxiv_client(max_results: int, arxiv_config: Optional[dict] = None) -> arxiv.Client:
+    arxiv_config = arxiv_config or {}
+    return arxiv.Client(
+        page_size=min(max_results, arxiv_config.get('page_size', 100)),
+        delay_seconds=arxiv_config.get('delay_seconds', 10.0),
+        num_retries=arxiv_config.get('num_retries', 5),
+    )
+
+def iterate_arxiv_results(
+    search: arxiv.Search,
+    max_results: int,
+    arxiv_config: Optional[dict] = None,
+):
+    """
+    Yield arXiv search results with extra backoff when the API returns HTTP 429
+    or transient network errors. GitHub Actions runners often share IPs and hit
+    arXiv rate limits quickly.
+    """
+    arxiv_config = arxiv_config or {}
+    max_attempts = arxiv_config.get('rate_limit_max_attempts', 5)
+    base_delay = arxiv_config.get('rate_limit_base_delay', 60.0)
+
+    last_err = None
+    for attempt in range(max_attempts):
+        client = create_arxiv_client(max_results, arxiv_config)
+        try:
+            yield from client.results(search)
+            return
+        except arxiv.HTTPError as err:
+            if err.status != 429:
+                raise
+            last_err = err
+        except requests.exceptions.RequestException as err:
+            last_err = err
+            logging.warning("arXiv request error: %s", err)
+
+        if attempt < max_attempts - 1:
+            wait = min(300.0, base_delay * (2 ** attempt))
+            logging.warning(
+                "Retrying arXiv query in %.0fs (attempt %d/%d)",
+                wait, attempt + 1, max_attempts,
+            )
+            time.sleep(wait)
+
+    if last_err is not None:
+        raise last_err
 
 def get_code_link(qword:str) -> str:
     """
@@ -110,7 +158,7 @@ def get_code_link(qword:str) -> str:
         logging.debug(f"GitHub search failed for {qword}: {e}")
         return None
   
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic, query="slam", max_results=2, arxiv_config=None):
     """
     @param topic: str
     @param query: str
@@ -119,14 +167,14 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output 
     content = dict() 
     content_to_web = dict()
-    client = arxiv.Client()
+    arxiv_config = arxiv_config or {}
     search = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in client.results(search):
+    for result in iterate_arxiv_results(search, max_results, arxiv_config):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -385,6 +433,8 @@ def demo(**config):
     
     keywords = config['kv']
     max_results = config['max_results']
+    arxiv_config = config.get('arxiv', {})
+    keyword_delay = arxiv_config.get('keyword_delay_seconds', 15.0)
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
@@ -394,14 +444,21 @@ def demo(**config):
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
-        for topic, keyword in keywords.items():
+        for index, (topic, keyword) in enumerate(keywords.items()):
             logging.info(f"Keyword: {topic}")
             logging.info(f"Keyword_detail: {keyword}")
-            data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
+            data, data_web = get_daily_papers(
+                topic,
+                query=keyword,
+                max_results=max_results,
+                arxiv_config=arxiv_config,
+            )
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
+            if index < len(keywords) - 1 and keyword_delay > 0:
+                logging.info(f"Waiting {keyword_delay}s before next arXiv query")
+                time.sleep(keyword_delay)
         logging.info(f"GET daily papers end")
 
     # 1. update README.md file

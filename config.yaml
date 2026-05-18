@@ -7,6 +7,14 @@ show_links: True
 show_badge: False
 max_results: 10  # ori: 10 papers, here we first set it to be 1600 to get all previous papers
 
+# arXiv API rate limiting (GitHub Actions shared IPs often trigger HTTP 429)
+arxiv:
+  delay_seconds: 15.0
+  num_retries: 5
+  keyword_delay_seconds: 30.0
+  rate_limit_max_attempts: 6
+  rate_limit_base_delay: 60.0
+
 publish_readme: True
 publish_gitpage: False
 publish_wechat: False
