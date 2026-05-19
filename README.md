@@ -1,4 +1,4 @@
-## Updated on 2026.05.18
+## Updated on 2026.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,8 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-15**|**FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast**|Igor Bogdanov et.al.|[2605.16233](http://arxiv.org/abs/2605.16233)|**[link](https://github.com/isbogdanov/forge-protocol)**|
-|**2026-05-14**|**Hidden in Memory: Sleeper Memory Poisoning in LLM Agents**|Sidharth Pulipaka et.al.|[2605.15338](http://arxiv.org/abs/2605.15338)|null|
+|**2026-05-18**|**An Empirical Study of Privacy Leakage Chains via Prompt Injection in Black-Box Chatbot Environments**|Hongjang Yang et.al.|[2605.18133](http://arxiv.org/abs/2605.18133)|null|
+|**2026-05-18**|**Remembering More, Risking More: Longitudinal Safety Risks in Memory-Equipped LLM Agents**|Ahmad Al-Tawaha et.al.|[2605.17830](http://arxiv.org/abs/2605.17830)|null|
+|**2026-05-17**|**ADR: An Agentic Detection System for Enterprise Agentic AI Security**|Chenning Li et.al.|[2605.17380](http://arxiv.org/abs/2605.17380)|null|
+|**2026-05-17**|**ASPI: Seeking Ambiguity Clarification Amplifies Prompt Injection Vulnerability in LLM Agents**|Udari Madhushani Sehwag et.al.|[2605.17324](http://arxiv.org/abs/2605.17324)|null|
+|**2026-05-16**|**STRIDE-AI: A Threat Modeling Framework for Generative AI Security Assessment**|Tsafac Nkombong Regine Cyrille et.al.|[2605.17163](http://arxiv.org/abs/2605.17163)|null|
+|**2026-05-13**|**Proof-Carrying Certificates for LLM Pipelines: A Trust-Boundary Architecture**|George Koomullil et.al.|[2605.16407](http://arxiv.org/abs/2605.16407)|null|
+|**2026-05-15**|**FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast**|Igor Bogdanov et.al.|[2605.16233](http://arxiv.org/abs/2605.16233)|null|
+|**2026-05-18**|**Hidden in Memory: Sleeper Memory Poisoning in LLM Agents**|Sidharth Pulipaka et.al.|[2605.15338](http://arxiv.org/abs/2605.15338)|null|
 |**2026-05-14**|**Web Agents Should Adopt the Plan-Then-Execute Paradigm**|Julien Piet et.al.|[2605.14290](http://arxiv.org/abs/2605.14290)|null|
 |**2026-05-13**|**No Attack Required: Semantic Fuzzing for Specification Violations in Agent Skills**|Ying Li et.al.|[2605.13044](http://arxiv.org/abs/2605.13044)|null|
 |**2026-05-12**|**IPI-proxy: An Intercepting Proxy for Red-Teaming Web-Browsing AI Agents Against Indirect Prompt Injection**| Chia-Pei et.al.|[2605.11868](http://arxiv.org/abs/2605.11868)|null|
@@ -474,7 +480,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -549,5 +555,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
 
