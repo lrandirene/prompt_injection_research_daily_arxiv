@@ -29,7 +29,7 @@
 |**2026-05-18**|**Hidden in Memory: Sleeper Memory Poisoning in LLM Agents**|Sidharth Pulipaka et.al.|[2605.15338](http://arxiv.org/abs/2605.15338)|null|
 |**2026-05-14**|**Web Agents Should Adopt the Plan-Then-Execute Paradigm**|Julien Piet et.al.|[2605.14290](http://arxiv.org/abs/2605.14290)|null|
 |**2026-05-13**|**No Attack Required: Semantic Fuzzing for Specification Violations in Agent Skills**|Ying Li et.al.|[2605.13044](http://arxiv.org/abs/2605.13044)|null|
-|**2026-05-12**|**IPI-proxy: An Intercepting Proxy for Red-Teaming Web-Browsing AI Agents Against Indirect Prompt Injection**| Chia-Pei et.al.|[2605.11868](http://arxiv.org/abs/2605.11868)|null|
+|**2026-05-12**|**IPI-proxy: An Intercepting Proxy for Red-Teaming Web-Browsing AI Agents Against Indirect Prompt Injection**|Chia-Pei et.al.|[2605.11868](http://arxiv.org/abs/2605.11868)|null|
 |**2026-05-11**|**The Granularity Mismatch in Agent Security: Argument-Level Provenance Solves Enforcement and Isolates the LLM Reasoning Bottleneck**|Linfeng Fan et.al.|[2605.11039](http://arxiv.org/abs/2605.11039)|null|
 |**2026-05-10**|**AgentShield: Deception-based Compromise Detection for Tool-using LLM Agents**|Yassin H. Rassul et.al.|[2605.11026](http://arxiv.org/abs/2605.11026)|null|
 |**2026-05-11**|**RUBEN: Rule-Based Explanations for Retrieval-Augmented LLM Systems**|Joel Rorseth et.al.|[2605.10862](http://arxiv.org/abs/2605.10862)|null|
@@ -527,7 +527,7 @@
 |**2025-11-22**|**Building Browser Agents: Architecture, Security, and Practical Solutions**|Aram Vardanyan et.al.|[2511.19477](http://arxiv.org/abs/2511.19477)|null|
 |**2025-11-20**|**The Shawshank Redemption of Embodied AI: Understanding and Benchmarking Indirect Environmental Jailbreaks**|Chunyang Li et.al.|[2511.16347](http://arxiv.org/abs/2511.16347)|null|
 |**2025-11-16**|**GRAPHTEXTACK: A Realistic Black-Box Node Injection Attack on LLM-Enhanced GNNs**|Jiaji Ma et.al.|[2511.12423](http://arxiv.org/abs/2511.12423)|null|
-|**2025-10-19**|**Black-box Optimization of LLM Outputs by Asking for Directions**|Jie Zhang et.al.|[2510.16794](http://arxiv.org/abs/2510.16794)|null|
+|**2025-10-19**|**Black-box Optimization of LLM Outputs by Asking for Directions**|Jie Zhang et.al.|[2510.16794](http://arxiv.org/abs/2510.16794)|**[link](https://github.com/zj-jayzhang/black_box_llm_optimization)**|
 |**2025-10-15**|**Protect: Towards Robust Guardrailing Stack for Trustworthy Enterprise LLM Systems**|Karthik Avinash et.al.|[2510.13351](http://arxiv.org/abs/2510.13351)|null|
 |**2025-10-13**|**Countermind: A Multi-Layered Security Architecture for Large Language Models**|Dominik Schwarz et.al.|[2510.11837](http://arxiv.org/abs/2510.11837)|null|
 |**2025-10-10**|**Text Prompt Injection of Vision Language Models**|Ruizhe Zhu et.al.|[2510.09849](http://arxiv.org/abs/2510.09849)|null|
