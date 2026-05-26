@@ -1,4 +1,4 @@
-## Updated on 2026.05.25
+## Updated on 2026.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-25**|**LLM-as-a-Reviewer: Benchmarking Their Ability, Divergence, and Prompt Injection Resistance as Paper Reviewers**|Lingyao Li et.al.|[2605.25415](http://arxiv.org/abs/2605.25415)|null|
+|**2026-05-23**|**IterInject: Indirect Prompt Injection Against LLM Agents via Feedback-Guided Iterative Optimization**|Zixuan Chen et.al.|[2605.24659](http://arxiv.org/abs/2605.24659)|null|
+|**2026-05-23**|**Poisoning the Watchtower: Prompt Injection Attacks Against LLM-Augmented Security Operations Through Adversarial Log Content**|Rohan Pandey et.al.|[2605.24421](http://arxiv.org/abs/2605.24421)|null|
 |**2026-05-22**|**Prompt Overflow: What the Guardrail Inspects Is Not What the Model Infers**|Yuanbo Zhou et.al.|[2605.23196](http://arxiv.org/abs/2605.23196)|null|
 |**2026-05-20**|**Heartbeat-Bound Hierarchical Credentials: Cryptographic Revocation for AI Agent Swarms**|Saurabh Deochake et.al.|[2605.20704](http://arxiv.org/abs/2605.20704)|null|
 |**2026-05-18**|**On the Geometric Limits of Transformer Defenses against Obfuscation Attacks: Latent Embedding Collapse & Performance Robustness Gap**|Becky Mashaido et.al.|[2605.19159](http://arxiv.org/abs/2605.19159)|null|
@@ -484,12 +487,13 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-24**|**Localization then Neutralization: Gradient-guided Token Suppression against Visual Prompt Injection Attack**|Dongpeng Zhang et.al.|[2605.25194](http://arxiv.org/abs/2605.25194)|null|
 |**2026-05-22**|**MixFake: Benchmarking and Enhancing Audio Deepfake Detection in Diverse Real-world Mixed Audio**|Qingcao Li et.al.|[2605.23201](http://arxiv.org/abs/2605.23201)|null|
 |**2026-05-15**|**A Cross-Modal Prompt Injection Attack against Large Vision-Language Models with Image-Only Perturbation**|Hao Yang et.al.|[2605.16090](http://arxiv.org/abs/2605.16090)|null|
 |**2026-05-13**|**ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections**|Kebin Contreras et.al.|[2605.13631](http://arxiv.org/abs/2605.13631)|null|
@@ -560,5 +564,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
 
