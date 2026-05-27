@@ -1,4 +1,4 @@
-## Updated on 2026.05.26
+## Updated on 2026.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-26**|**Prompt Injection Detection is Regime-Dependent: A Deployment-Aware Evaluation with Interpretable Structural Signals**|Akindoyin Akinrele et.al.|[2605.26999](http://arxiv.org/abs/2605.26999)|null|
+|**2026-05-26**|**Cordyceps: Covert Control Attacks on LLMs via Data Poisoning**|Zedian Shao et.al.|[2605.26595](http://arxiv.org/abs/2605.26595)|**[link](https://github.com/Sadcardation/cordyceps)**|
+|**2026-05-26**|**Aligning Provenance with Authorization: A Dual-Graph Defense for LLM Agents**|Peiran Wang et.al.|[2605.26497](http://arxiv.org/abs/2605.26497)|null|
+|**2026-05-25**|**AgentSecBench: Measuring Prompt Injection, Privacy Leakage, and Tool-Use Integrity in LLM Agents**|Faruk Alpay et.al.|[2605.26269](http://arxiv.org/abs/2605.26269)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-05-24**|**Device Context Protocol: A Compact, Safety-First Architecture for LLM-Driven Control of Constrained Devices**|Dongxu Yang et.al.|[2605.26159](http://arxiv.org/abs/2605.26159)|null|
 |**2026-05-25**|**LLM-as-a-Reviewer: Benchmarking Their Ability, Divergence, and Prompt Injection Resistance as Paper Reviewers**|Lingyao Li et.al.|[2605.25415](http://arxiv.org/abs/2605.25415)|null|
 |**2026-05-23**|**IterInject: Indirect Prompt Injection Against LLM Agents via Feedback-Guided Iterative Optimization**|Zixuan Chen et.al.|[2605.24659](http://arxiv.org/abs/2605.24659)|null|
 |**2026-05-23**|**Poisoning the Watchtower: Prompt Injection Attacks Against LLM-Augmented Security Operations Through Adversarial Log Content**|Rohan Pandey et.al.|[2605.24421](http://arxiv.org/abs/2605.24421)|null|
@@ -487,7 +492,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -564,5 +569,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
 
