@@ -1,4 +1,4 @@
-## Updated on 2026.05.28
+## Updated on 2026.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,11 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**Token-Level Generalization in LoRA Adapter Backdoors: Attack Characterization and Behavioral Detection**|Travis Lelle et.al.|[2605.30189](http://arxiv.org/abs/2605.30189)|**[link](https://github.com/Travis-ML/lora-backdoors)**|
+|**2026-05-28**|**Minimal Prompt Perturbations Lead to Code Vulnerabilities: Prompt Fragility and Hidden-State Signals in Coding LLMs**|Alexander Sternfeld et.al.|[2605.29737](http://arxiv.org/abs/2605.29737)|null|
+|**2026-05-27**|**Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening**|Mohan Zhang et.al.|[2605.28999](http://arxiv.org/abs/2605.28999)|null|
+|**2026-05-27**|**Towards Demystifying and Repairing LLM-in-the-Loop Vulnerabilities**|Yujie Ma et.al.|[2605.28893](http://arxiv.org/abs/2605.28893)|null|
 |**2026-05-27**|**LACUNA: Safe Agents as Recursive Program Holes**|Yaoyu Zhao et.al.|[2605.28617](http://arxiv.org/abs/2605.28617)|null|
 |**2026-05-27**|**Mitigating Adaptive Attacks against Reasoning Models with Activation Consistency Training**|Avidan Shah et.al.|[2605.28467](http://arxiv.org/abs/2605.28467)|null|
-|**2026-05-27**|**Can It Reach the Generator? Investigating the Survival of Prompt-Injection Attacks in Realistic RAG Settings**|Yu Yin et.al.|[2605.28017](http://arxiv.org/abs/2605.28017)|null|
+|**2026-05-28**|**Can It Reach the Generator? Investigating the Survival of Prompt-Injection Attacks in Realistic RAG Settings**|Yu Yin et.al.|[2605.28017](http://arxiv.org/abs/2605.28017)|null|
 |**2026-05-26**|**Prompt Injection Detection is Regime-Dependent: A Deployment-Aware Evaluation with Interpretable Structural Signals**|Akindoyin Akinrele et.al.|[2605.26999](http://arxiv.org/abs/2605.26999)|null|
-|**2026-05-26**|**Cordyceps: Covert Control Attacks on LLMs via Data Poisoning**|Zedian Shao et.al.|[2605.26595](http://arxiv.org/abs/2605.26595)|**[link](https://github.com/Sadcardation/cordyceps)**|
+|**2026-05-26**|**Cordyceps: Covert Control Attacks on LLMs via Data Poisoning**|Zedian Shao et.al.|[2605.26595](http://arxiv.org/abs/2605.26595)|null|
 |**2026-05-26**|**Aligning Provenance with Authorization: A Dual-Graph Defense for LLM Agents**|Peiran Wang et.al.|[2605.26497](http://arxiv.org/abs/2605.26497)|null|
 |**2026-05-25**|**AgentSecBench: Measuring Prompt Injection, Privacy Leakage, and Tool-Use Integrity in LLM Agents**|Faruk Alpay et.al.|[2605.26269](http://arxiv.org/abs/2605.26269)|null|
 |**2026-05-24**|**Device Context Protocol: A Compact, Safety-First Architecture for LLM-Driven Control of Constrained Devices**|Dongxu Yang et.al.|[2605.26159](http://arxiv.org/abs/2605.26159)|null|
@@ -495,7 +499,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260529>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -574,5 +578,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260529>back to top</a>)</p>
 
