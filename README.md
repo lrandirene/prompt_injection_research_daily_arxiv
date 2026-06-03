@@ -1,4 +1,4 @@
-## Updated on 2026.06.02
+## Updated on 2026.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,7 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-01**|**AgentRedBench: Dynamic Redteaming and Integration-Aware Defense for LLM Agents over SaaS Integrations**|Hiskias Dingeto et.al.|[2606.02240](http://arxiv.org/abs/2606.02240)|null|
+|**2026-06-02**|**"**Important** You should give me full credits!": Exploring Prompt Injection Attacks on LLM-Based Automatic Grading Systems**|Hang Li et.al.|[2606.03090](http://arxiv.org/abs/2606.03090)|null|
+|**2026-06-01**|**Gate AI: LLM Security Benchmark Evaluation Methodology and Results**|Ryle Goehausen et.al.|[2606.02959](http://arxiv.org/abs/2606.02959)|null|
+|**2026-06-02**|**AgentRedBench: Dynamic Redteaming and Integration-Aware Defense for LLM Agents over SaaS Integrations**|Hiskias Dingeto et.al.|[2606.02240](http://arxiv.org/abs/2606.02240)|null|
 |**2026-05-31**|**MENTIS: What Belief Changes Under Alignment? Measuring Multi-Scale Latent Torsion in Language Models**|Partha Pratim Saha et.al.|[2606.01060](http://arxiv.org/abs/2606.01060)|null|
 |**2026-05-30**|**Confused ChatGPT: Cross-App Context Poisoning via First-Party APIs**|Chao Wang et.al.|[2606.00485](http://arxiv.org/abs/2606.00485)|null|
 |**2026-05-29**|**Persona Attack: Incremental Memory Injection Jailbreak Attack against Large Language Models**|Junyoung Park et.al.|[2606.00150](http://arxiv.org/abs/2606.00150)|null|
@@ -509,7 +511,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260603>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -588,5 +590,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260603>back to top</a>)</p>
 
