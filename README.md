@@ -455,7 +455,7 @@
 |**2025-03-31**|**TestART: Improving LLM-based Unit Testing via Co-evolution of Automated Generation and Repair Iteration**|Siqi Gu et.al.|[2408.03095](http://arxiv.org/abs/2408.03095)|null|
 |**2024-08-01**|**WHITE PAPER: A Brief Exploration of Data Exfiltration using GCG Suffixes**|Victor Valbuena et.al.|[2408.00925](http://arxiv.org/abs/2408.00925)|null|
 |**2024-11-17**|**Blockchain for Large Language Model Security and Safety: A Holistic Survey**|Caleb Geren et.al.|[2407.20181](http://arxiv.org/abs/2407.20181)|null|
-|**2025-06-05**|**Scaling Trends in Language Model Robustness**|Nikolaus Howe et.al.|[2407.18213](http://arxiv.org/abs/2407.18213)|null|
+|**2025-06-05**|**Scaling Trends in Language Model Robustness**|Nikolaus Howe et.al.|[2407.18213](http://arxiv.org/abs/2407.18213)|**[link](https://github.com/AlignmentResearch/scaling-llm-robustness-paper)**|
 |**2024-07-25**|**Human-Interpretable Adversarial Prompt Attack on Large Language Models with Situational Context**|Nilanjana Das et.al.|[2407.14644](http://arxiv.org/abs/2407.14644)|null|
 |**2024-07-18**|**LLMs as Function Approximators: Terminology, Taxonomy, and Questions for Evaluation**|David Schlangen et.al.|[2407.13744](http://arxiv.org/abs/2407.13744)|null|
 |**2025-07-22**|**ShadowCode: Towards (Automatic) External Prompt Injection Attack against Code LLMs**|Yuchen Yang et.al.|[2407.09164](http://arxiv.org/abs/2407.09164)|null|
