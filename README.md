@@ -47,7 +47,7 @@
 |**2026-05-28**|**Automatically Attacking Software Reverse Engineering AI Agents**|Brian Crawford et.al.|[2605.30667](http://arxiv.org/abs/2605.30667)|null|
 |**2026-05-28**|**When AI Meets Wall Street: A Survey on Trustworthy AI in Fintech**|Qingwen Zeng et.al.|[2605.30650](http://arxiv.org/abs/2605.30650)|null|
 |**2026-05-28**|**Strengthening Polymorphic Prompt Assembling: Dynamic Separator Generation Against Emerging Prompt Injection Attacks**|Nima Dorzhiev et.al.|[2605.30534](http://arxiv.org/abs/2605.30534)|null|
-|**2026-05-28**|**The Surface You Test Is Not the Surface That Breaks**|Shifat E Arman et.al.|[2605.30454](http://arxiv.org/abs/2605.30454)|null|
+|**2026-05-28**|**The Surface You Test Is Not the Surface That Breaks**|Shifat E Arman et.al.|[2605.30454](http://arxiv.org/abs/2605.30454)|**[link](https://github.com/danderfer/Comp_Sci_Sem_2)**|
 |**2026-05-28**|**Token-Level Generalization in LoRA Adapter Backdoors: Attack Characterization and Behavioral Detection**|Travis Lelle et.al.|[2605.30189](http://arxiv.org/abs/2605.30189)|null|
 |**2026-05-28**|**Minimal Prompt Perturbations Lead to Code Vulnerabilities: Prompt Fragility and Hidden-State Signals in Coding LLMs**|Alexander Sternfeld et.al.|[2605.29737](http://arxiv.org/abs/2605.29737)|null|
 |**2026-05-27**|**Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening**|Mohan Zhang et.al.|[2605.28999](http://arxiv.org/abs/2605.28999)|null|
@@ -187,7 +187,7 @@
 |**2026-02-10**|**The Promptware Kill Chain: How Prompt Injections Gradually Evolved Into a Multistep Malware Delivery Mechanism**|Oleg Brodt et.al.|[2601.09625](http://arxiv.org/abs/2601.09625)|null|
 |**2025-12-21**|**Rubric-Conditioned LLM Grading: Alignment, Uncertainty, and Robustness**|Haotian Deng et.al.|[2601.08843](http://arxiv.org/abs/2601.08843)|null|
 |**2026-01-13**|**BenchOverflow: Measuring Overflow in Large Language Models via Plain-Text Prompts**|Erin Feiglin et.al.|[2601.08490](http://arxiv.org/abs/2601.08490)|null|
-|**2026-01-09**|**FinVault: Benchmarking Financial Agent Safety in Execution-Grounded Environments**|Zhi Yang et.al.|[2601.07853](http://arxiv.org/abs/2601.07853)|null|
+|**2026-01-09**|**FinVault: Benchmarking Financial Agent Safety in Execution-Grounded Environments**|Zhi Yang et.al.|[2601.07853](http://arxiv.org/abs/2601.07853)|**[link](https://github.com/aifinlab/FinVault)**|
 |**2026-01-12**|**When Bots Take the Bait: Exposing and Mitigating the Emerging Social Engineering Attack in Web Automation Agent**|Xinyi Wu et.al.|[2601.07263](http://arxiv.org/abs/2601.07263)|null|
 |**2026-01-12**|**Defenses Against Prompt Attacks Learn Surface Heuristics**|Shawn Li et.al.|[2601.07185](http://arxiv.org/abs/2601.07185)|null|
 |**2026-01-11**|**Overcoming the Retrieval Barrier: Indirect Prompt Injection in the Wild for LLM Systems**|Hongyan Chang et.al.|[2601.07072](http://arxiv.org/abs/2601.07072)|null|
@@ -295,7 +295,7 @@
 |**2025-11-15**|**Cybersecurity AI: Hacking the AI Hackers via Prompt Injection**|Víctor Mayoral-Vilches et.al.|[2508.21669](http://arxiv.org/abs/2508.21669)|null|
 |**2025-09-16**|**PromptSleuth: Detecting Prompt Injection via Semantic Intent Invariance**|Mengxiao Wang et.al.|[2508.20890](http://arxiv.org/abs/2508.20890)|null|
 |**2026-03-30**|**Misleading Large Language Models used (or misused) in Scientific Peer-Reviewing via Hidden Prompt-Injection Attacks**|Matteo Gioele Collu et.al.|[2508.20863](http://arxiv.org/abs/2508.20863)|null|
-|**2025-08-26**|**Reliable Weak-to-Strong Monitoring of LLM Agents**|Neil Kale et.al.|[2508.19461](http://arxiv.org/abs/2508.19461)|null|
+|**2025-08-26**|**Reliable Weak-to-Strong Monitoring of LLM Agents**|Neil Kale et.al.|[2508.19461](http://arxiv.org/abs/2508.19461)|**[link](https://github.com/neilkale/mrt-vercel-app)**|
 |**2025-08-25**|**Tricking LLM-Based NPCs into Spilling Secrets**|Kyohei Shiomi et.al.|[2508.19288](http://arxiv.org/abs/2508.19288)|null|
 |**2025-10-23**|**PhantomLint: Principled Detection of Hidden LLM Prompts in Structured Documents**|Toby Murray et.al.|[2508.17884](http://arxiv.org/abs/2508.17884)|null|
 |**2025-08-23**|**Mind the Gap: Time-of-Check to Time-of-Use Vulnerabilities in LLM-Enabled Agents**|Derek Lilienthal et.al.|[2508.17155](http://arxiv.org/abs/2508.17155)|null|
@@ -449,7 +449,7 @@
 |**2024-10-18**|**Backdoored Retrievers for Prompt Injection Attacks on Retrieval Augmented Generation of Large Language Models**|Cody Clop et.al.|[2410.14479](http://arxiv.org/abs/2410.14479)|null|
 |**2025-02-10**|**LLM Agent Honeypot: Monitoring AI Hacking Agents in the Wild**|Reworr et.al.|[2410.13919](http://arxiv.org/abs/2410.13919)|null|
 |**2024-10-17**|**SPIN: Self-Supervised Prompt INjection**|Leon Zhou et.al.|[2410.13236](http://arxiv.org/abs/2410.13236)|null|
-|**2024-10-17**|**Data Defenses Against Large Language Models**|William Agnew et.al.|[2410.13138](http://arxiv.org/abs/2410.13138)|null|
+|**2024-10-17**|**Data Defenses Against Large Language Models**|William Agnew et.al.|[2410.13138](http://arxiv.org/abs/2410.13138)|**[link](https://github.com/Noykarde/NoykardeRepository)**|
 |**2025-07-02**|**Large Language Models, and LLM-Based Agents, Should Be Used to Enhance the Digital Public Sphere**|Seth Lazar et.al.|[2410.12123](http://arxiv.org/abs/2410.12123)|null|
 |**2025-03-01**|**Instructional Segment Embedding: Improving LLM Safety with Instruction Hierarchy**|Tong Wu et.al.|[2410.09102](http://arxiv.org/abs/2410.09102)|null|
 |**2024-10-14**|**F2A: An Innovative Approach for Prompt Injection by Utilizing Feign Security Detection Agents**|Yupeng Ren et.al.|[2410.08776](http://arxiv.org/abs/2410.08776)|null|
@@ -585,7 +585,7 @@
 |**2025-10-10**|**Text Prompt Injection of Vision Language Models**|Ruizhe Zhu et.al.|[2510.09849](http://arxiv.org/abs/2510.09849)|null|
 |**2025-11-20**|**Practical and Stealthy Touch-Guided Jailbreak Attacks on Deployed Mobile Vision-Language Agents**|Renhua Ding et.al.|[2510.07809](http://arxiv.org/abs/2510.07809)|null|
 |**2025-10-06**|**Imperceptible Jailbreaking against Large Language Models**|Kuofeng Gao et.al.|[2510.05025](http://arxiv.org/abs/2510.05025)|null|
-|**2025-10-05**|**AgentTypo: Adaptive Typographic Prompt Injection Attacks against Black-box Multimodal Agents**|Yanjie Li et.al.|[2510.04257](http://arxiv.org/abs/2510.04257)|null|
+|**2025-10-05**|**AgentTypo: Adaptive Typographic Prompt Injection Attacks against Black-box Multimodal Agents**|Yanjie Li et.al.|[2510.04257](http://arxiv.org/abs/2510.04257)|**[link](https://github.com/PolyLiYJ/AgentTypo)**|
 |**2025-10-01**|**WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents**|Yinuo Liu et.al.|[2510.01354](http://arxiv.org/abs/2510.01354)|null|
 |**2025-09-19**|**EmoQ: Speech Emotion Recognition via Speech-Aware Q-Former and Large Language Model**|Yiqing Yang et.al.|[2509.15775](http://arxiv.org/abs/2509.15775)|null|
 |**2025-09-06**|**EchoLeak: The First Real-World Zero-Click Prompt Injection Exploit in a Production LLM System**|Pavan Reddy et.al.|[2509.10540](http://arxiv.org/abs/2509.10540)|null|
