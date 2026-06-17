@@ -1,4 +1,4 @@
-## Updated on 2026.06.16
+## Updated on 2026.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-16**|**PARSE: Provenance-Aware Retrieval Sanitization for Professional Domain LLM Agents**|Aaditya Pai et.al.|[2606.17467](http://arxiv.org/abs/2606.17467)|null|
+|**2026-06-15**|**An Evaluation of Data Leakage Risks in Tool-Using LLM Agents in Realistic Scenarios**|Hankyul Baek et.al.|[2606.17114](http://arxiv.org/abs/2606.17114)|null|
 |**2026-06-15**|**KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing**|Mufei Li et.al.|[2606.17034](http://arxiv.org/abs/2606.17034)|null|
 |**2026-06-14**|**SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills**|Ismail Hossain et.al.|[2606.15899](http://arxiv.org/abs/2606.15899)|null|
 |**2026-06-14**|**GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking**|Aman Anifer et.al.|[2606.15788](http://arxiv.org/abs/2606.15788)|null|
@@ -22,7 +24,7 @@
 |**2026-06-13**|**Defending against Adaptive Prompt Injection Attacks via Reasoning-enabled Task Alignment**|Lipeng He et.al.|[2606.15441](http://arxiv.org/abs/2606.15441)|null|
 |**2026-06-13**|**AutoDojo: Adaptive Attacks Expose Superficial Defenses and User-Underspecification Limits in LLM Agents**|Xinhang Ma et.al.|[2606.15057](http://arxiv.org/abs/2606.15057)|null|
 |**2026-06-12**|**Security Engineering of OpenClaw: Analyzing Attack Surface Expansion and Trust-Boundary Violations**|Saeid Jamshidi et.al.|[2606.15008](http://arxiv.org/abs/2606.15008)|null|
-|**2026-06-12**|**From Shield to Target: Denial-of-Service Attacks on LLM-Based Agent Guardrails**|Yuguang Zhou et.al.|[2606.14517](http://arxiv.org/abs/2606.14517)|null|
+|**2026-06-16**|**From Shield to Target: Denial-of-Service Attacks on LLM-Based Agent Guardrails**|Yuguang Zhou et.al.|[2606.14517](http://arxiv.org/abs/2606.14517)|null|
 |**2026-06-12**|**SkillMutator: Benchmarking and Defending Language-and-Code Cross-modal Attacks on LLM Agent Skills**|Youngduk Kim et.al.|[2606.14154](http://arxiv.org/abs/2606.14154)|null|
 |**2026-06-11**|**Who Pays the Price? Stakeholder-Centric Prompt Injection Benchmarking for Real-world Web Agents**|Zihao Wang et.al.|[2606.13385](http://arxiv.org/abs/2606.13385)|null|
 |**2026-06-11**|**Nous: An Attempt to Extract and Inject the Cognition Behind Prediction-Market Behavior**|Haowei Qian et.al.|[2606.13038](http://arxiv.org/abs/2606.13038)|null|
@@ -539,18 +541,18 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-06-13**|**Forced Deferral: Manipulating Routing Decisions in Multimodal LLM Cascades**|Zhongye Liu et.al.|[2606.15308](http://arxiv.org/abs/2606.15308)|null|
-|**2026-06-10**|**Does AI Reviewer See the Full Picture? Attacking and Defending Multimodal Peer Review**|Xinyu Zhao et.al.|[2606.12716](http://arxiv.org/abs/2606.12716)|null|
+|**2026-06-10**|**Does AI Reviewer See the Full Picture? Attacking and Defending Multimodal Peer Review**|Xinyu Zhao et.al.|[2606.12716](http://arxiv.org/abs/2606.12716)|**[link](https://github.com/UNITES-Lab/PaperGuard)**|
 |**2026-05-27**|**MIRAGE: Context-Aware Prompt Injection against Mobile GUI Agents via User-Generated Content**|Ruoqi Guo et.al.|[2605.28116](http://arxiv.org/abs/2605.28116)|null|
 |**2026-05-27**|**Disentangling Adversarial Prompts: A Semantic-Graph Defense for Robust LLM Security**|Xiang Fang et.al.|[2605.27823](http://arxiv.org/abs/2605.27823)|null|
 |**2026-05-24**|**Localization then Neutralization: Gradient-guided Token Suppression against Visual Prompt Injection Attack**|Dongpeng Zhang et.al.|[2605.25194](http://arxiv.org/abs/2605.25194)|null|
-|**2026-05-22**|**MixFake: Benchmarking and Enhancing Audio Deepfake Detection in Diverse Real-world Mixed Audio**|Qingcao Li et.al.|[2605.23201](http://arxiv.org/abs/2605.23201)|null|
+|**2026-05-22**|**MixFake: Benchmarking and Enhancing Audio Deepfake Detection in Diverse Real-world Mixed Audio**|Qingcao Li et.al.|[2605.23201](http://arxiv.org/abs/2605.23201)|**[link](https://github.com/saltfish233/MixFake)**|
 |**2026-05-15**|**A Cross-Modal Prompt Injection Attack against Large Vision-Language Models with Image-Only Perturbation**|Hao Yang et.al.|[2605.16090](http://arxiv.org/abs/2605.16090)|null|
 |**2026-06-10**|**ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections**|Kebin Contreras et.al.|[2605.13631](http://arxiv.org/abs/2605.13631)|null|
 |**2026-05-12**|**Agents Should Replace Narrow Predictive AI as the Orchestrator in 6G AI-RAN**|Pranshav Gajjar et.al.|[2605.11516](http://arxiv.org/abs/2605.11516)|null|
@@ -620,5 +622,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260617>back to top</a>)</p>
 
