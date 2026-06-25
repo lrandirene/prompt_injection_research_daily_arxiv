@@ -1,4 +1,4 @@
-## Updated on 2026.06.24
+## Updated on 2026.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**How Reliable Is Your Jailbreak Judge? Calibration and Adversarial Robustness of Automated ASR Scoring**|Yang Gao et.al.|[2606.25487](http://arxiv.org/abs/2606.25487)|null|
+|**2026-06-23**|**LLM-Based Scientific Peer Review: Methods, Benchmarks, and Reliability Challenges**|Thi Huyen Nguyen et.al.|[2606.25057](http://arxiv.org/abs/2606.25057)|null|
 |**2026-06-23**|**Securing LLM-Agent Long-Term Memory Against Poisoning: Non-Malleable, Origin-Bound Authority with Machine-Checked Guarantees**|Yedidel Louck et.al.|[2606.24322](http://arxiv.org/abs/2606.24322)|null|
 |**2026-06-22**|**Detecting Malicious Agent Skills in the Wild using Attention**|Bacem Etteib et.al.|[2606.23416](http://arxiv.org/abs/2606.23416)|null|
 |**2026-06-22**|**GIF: Locally Sound Geometric Information Flow Control for LLMs**|Adam Storek et.al.|[2606.23277](http://arxiv.org/abs/2606.23277)|null|
@@ -554,7 +556,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -564,7 +566,7 @@
 |**2026-06-22**|**DE-FIVE: Detecting Malicious Image Prompts via Fourier Features and Image Vector Embeddings**|Xingwei Zhong et.al.|[2606.22779](http://arxiv.org/abs/2606.22779)|null|
 |**2026-06-16**|**MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents**|Xuelong Dai et.al.|[2606.20717](http://arxiv.org/abs/2606.20717)|null|
 |**2026-06-13**|**Forced Deferral: Manipulating Routing Decisions in Multimodal LLM Cascades**|Zhongye Liu et.al.|[2606.15308](http://arxiv.org/abs/2606.15308)|null|
-|**2026-06-10**|**Does AI Reviewer See the Full Picture? Attacking and Defending Multimodal Peer Review**|Xinyu Zhao et.al.|[2606.12716](http://arxiv.org/abs/2606.12716)|**[link](https://github.com/UNITES-Lab/PaperGuard)**|
+|**2026-06-10**|**Does AI Reviewer See the Full Picture? Attacking and Defending Multimodal Peer Review**|Xinyu Zhao et.al.|[2606.12716](http://arxiv.org/abs/2606.12716)|null|
 |**2026-05-27**|**MIRAGE: Context-Aware Prompt Injection against Mobile GUI Agents via User-Generated Content**|Ruoqi Guo et.al.|[2605.28116](http://arxiv.org/abs/2605.28116)|null|
 |**2026-05-27**|**Disentangling Adversarial Prompts: A Semantic-Graph Defense for Robust LLM Security**|Xiang Fang et.al.|[2605.27823](http://arxiv.org/abs/2605.27823)|null|
 |**2026-05-24**|**Localization then Neutralization: Gradient-guided Token Suppression against Visual Prompt Injection Attack**|Dongpeng Zhang et.al.|[2605.25194](http://arxiv.org/abs/2605.25194)|null|
@@ -638,5 +640,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
