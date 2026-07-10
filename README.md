@@ -1,4 +1,4 @@
-## Updated on 2026.07.09
+## Updated on 2026.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-09**|**Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models**|Hugo García Cuesta et.al.|[2607.08282](http://arxiv.org/abs/2607.08282)|null|
 |**2026-07-08**|**Beware of Agentic Botnets: Scalable Untargeted Promptware Attacks via Universal and Transferable Adversarial HalluSquatting**|Aya Spira et.al.|[2607.07433](http://arxiv.org/abs/2607.07433)|null|
 |**2026-07-06**|**Agent Data Injection Attacks are Realistic Threats to AI Agents**|Woohyuk Choi et.al.|[2607.05120](http://arxiv.org/abs/2607.05120)|null|
 |**2026-07-05**|**Biological Motifs for Agentic Control**|Bogdan Banu et.al.|[2607.04240](http://arxiv.org/abs/2607.04240)|null|
@@ -575,7 +576,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -659,5 +660,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260710>back to top</a>)</p>
 
