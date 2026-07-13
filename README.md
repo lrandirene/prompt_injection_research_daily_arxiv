@@ -582,6 +582,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-10**|**Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing**|Mohammad Dabaja et.al.|[2607.09583](http://arxiv.org/abs/2607.09583)|null|
 |**2026-06-22**|**When AUC 0.998 Is Not Enough: A Candidate Evaluation Protocol for Hidden-State Probes of Indirect Prompt Injection in Multimodal Computer-Use Agents**|Yanhang Li et.al.|[2606.22864](http://arxiv.org/abs/2606.22864)|null|
 |**2026-06-22**|**DE-FIVE: Detecting Malicious Image Prompts via Fourier Features and Image Vector Embeddings**|Xingwei Zhong et.al.|[2606.22779](http://arxiv.org/abs/2606.22779)|null|
 |**2026-06-16**|**MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents**|Xuelong Dai et.al.|[2606.20717](http://arxiv.org/abs/2606.20717)|null|
