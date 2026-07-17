@@ -1,4 +1,4 @@
-## Updated on 2026.07.16
+## Updated on 2026.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**Context Contamination in LLM Analysis of Network Security Logs: Poison with Passive Prompt Injection and Mitigation Evaluation**|Rabimba Karanjai et.al.|[2607.14493](http://arxiv.org/abs/2607.14493)|null|
 |**2026-07-15**|**Agent Skill Security: Threat Models, Attacks, Defenses, and Evaluation**|Sanket Badhe et.al.|[2607.13987](http://arxiv.org/abs/2607.13987)|null|
 |**2026-07-15**|**Self-Evolving Agent Harnesses via Gated Semantic Quality-Diversity**|Xiaotian Luo et.al.|[2607.13683](http://arxiv.org/abs/2607.13683)|null|
 |**2026-07-14**|**PVDetector: Detecting Prompt Injection Attacks on Purpose-Specific LLM Agents through Policy-Violation Concept Analysis**|Junhui Wang et.al.|[2607.12624](http://arxiv.org/abs/2607.12624)|**[link](https://github.com/Claresigle/PVDetector)**|
@@ -582,7 +583,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -668,5 +669,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260717>back to top</a>)</p>
 
