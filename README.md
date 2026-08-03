@@ -15,12 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents**|Minghui Pan et.al.|[2607.29254](http://arxiv.org/abs/2607.29254)|**[link](https://github.com/snowcatsmoking/SafeKeep)**|
 |**2026-07-28**|**GPT-Red: Automated Red Teaming via Self-Play at Scale**|Eric Wallace et.al.|[2607.26115](http://arxiv.org/abs/2607.26115)|null|
 |**2026-07-27**|**Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents**|Arseny Kravchenko et.al.|[2607.24625](http://arxiv.org/abs/2607.24625)|null|
 |**2026-07-27**|**Just Testing, Move Along: Evasion of LLM-based System Log Interpretation by Prompt Injection**|Max Landauer et.al.|[2607.24174](http://arxiv.org/abs/2607.24174)|null|
 |**2026-07-27**|**Agentic Cloud Decoys: A Deception-Driven Framework for Autonomous Intrusion Investigation**|Mohan Manivannan et.al.|[2607.24006](http://arxiv.org/abs/2607.24006)|null|
 |**2026-07-28**|**ContainmentBench: Trace-Based Evaluation of Post-Injection Containment in Tool-Using LLM Agents**|Wenhao Lan et.al.|[2607.23999](http://arxiv.org/abs/2607.23999)|null|
-|**2026-07-26**|**Mission-Level Runtime Assurance for LLM-Assisted ISR Swarms over a Verification-Aware Fabric**|Nikolaos Kekatos et.al.|[2607.23532](http://arxiv.org/abs/2607.23532)|null|
+|**2026-07-31**|**Mission-Level Runtime Assurance for LLM-Assisted ISR Swarms over a Verification-Aware Fabric**|Nikolaos Kekatos et.al.|[2607.23532](http://arxiv.org/abs/2607.23532)|null|
 |**2026-07-26**|**V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure**|Zhetong Zhang et.al.|[2607.21151](http://arxiv.org/abs/2607.21151)|null|
 |**2026-07-22**|**Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results**|Yanyu Chen et.al.|[2607.20090](http://arxiv.org/abs/2607.20090)|null|
 |**2026-07-21**|**Twin Agent: Context Residual Compression for Privilege Separated Agents**|Zhanhao Hu et.al.|[2607.19595](http://arxiv.org/abs/2607.19595)|null|
@@ -606,14 +607,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-30**|**Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents**|Mingxiao Liu et.al.|[2607.28165](http://arxiv.org/abs/2607.28165)|null|
+|**2026-07-31**|**Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents**|Mingxiao Liu et.al.|[2607.28165](http://arxiv.org/abs/2607.28165)|null|
 |**2026-07-11**|**Devil in the Lens: Analyzing and Defending Physical Prompt Injection Against Vision-Language Models on Wearable Devices**|Yaxin Li et.al.|[2607.10269](http://arxiv.org/abs/2607.10269)|null|
 |**2026-07-10**|**Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing**|Mohammad Dabaja et.al.|[2607.09583](http://arxiv.org/abs/2607.09583)|null|
 |**2026-06-22**|**When AUC 0.998 Is Not Enough: A Candidate Evaluation Protocol for Hidden-State Probes of Indirect Prompt Injection in Multimodal Computer-Use Agents**|Yanhang Li et.al.|[2606.22864](http://arxiv.org/abs/2606.22864)|null|
 |**2026-06-22**|**DE-FIVE: Detecting Malicious Image Prompts via Fourier Features and Image Vector Embeddings**|Xingwei Zhong et.al.|[2606.22779](http://arxiv.org/abs/2606.22779)|null|
 |**2026-06-16**|**MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents**|Xuelong Dai et.al.|[2606.20717](http://arxiv.org/abs/2606.20717)|null|
 |**2026-06-13**|**Forced Deferral: Manipulating Routing Decisions in Multimodal LLM Cascades**|Zhongye Liu et.al.|[2606.15308](http://arxiv.org/abs/2606.15308)|null|
-|**2026-06-25**|**Does AI Reviewer See the Full Picture? Attacking and Defending Multimodal Peer Review**|Xinyu Zhao et.al.|[2606.12716](http://arxiv.org/abs/2606.12716)|**[link](https://github.com/UNITES-Lab/PaperGuard)**|
+|**2026-06-25**|**Does AI Reviewer See the Full Picture? Attacking and Defending Multimodal Peer Review**|Xinyu Zhao et.al.|[2606.12716](http://arxiv.org/abs/2606.12716)|null|
 |**2026-05-27**|**MIRAGE: Context-Aware Prompt Injection against Mobile GUI Agents via User-Generated Content**|Ruoqi Guo et.al.|[2605.28116](http://arxiv.org/abs/2605.28116)|null|
 |**2026-05-27**|**Disentangling Adversarial Prompts: A Semantic-Graph Defense for Robust LLM Security**|Xiang Fang et.al.|[2605.27823](http://arxiv.org/abs/2605.27823)|null|
 |**2026-05-24**|**Localization then Neutralization: Gradient-guided Token Suppression against Visual Prompt Injection Attack**|Dongpeng Zhang et.al.|[2605.25194](http://arxiv.org/abs/2605.25194)|null|
