@@ -1,4 +1,4 @@
-## Updated on 2026.08.03
+## Updated on 2026.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-01**|**When Prompts Control Robots: Prompt Injection Attacks in Multi-Agent Robotic Systems**|Neha Nagaraja et.al.|[2608.00747](http://arxiv.org/abs/2608.00747)|null|
 |**2026-07-31**|**Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents**|Minghui Pan et.al.|[2607.29254](http://arxiv.org/abs/2607.29254)|**[link](https://github.com/snowcatsmoking/SafeKeep)**|
 |**2026-07-28**|**GPT-Red: Automated Red Teaming via Self-Play at Scale**|Eric Wallace et.al.|[2607.26115](http://arxiv.org/abs/2607.26115)|null|
 |**2026-07-27**|**Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents**|Arseny Kravchenko et.al.|[2607.24625](http://arxiv.org/abs/2607.24625)|null|
@@ -601,12 +602,14 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-03**|**Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents**|Jia-Chen Zhang et.al.|[2608.02018](http://arxiv.org/abs/2608.02018)|null|
+|**2026-08-03**|**Mitigating Visual Degradation in MLLMs via Spatial-Spectral Visual Anchor Learning**|Qianlong Yang et.al.|[2608.01635](http://arxiv.org/abs/2608.01635)|null|
 |**2026-07-31**|**Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents**|Mingxiao Liu et.al.|[2607.28165](http://arxiv.org/abs/2607.28165)|null|
 |**2026-07-11**|**Devil in the Lens: Analyzing and Defending Physical Prompt Injection Against Vision-Language Models on Wearable Devices**|Yaxin Li et.al.|[2607.10269](http://arxiv.org/abs/2607.10269)|null|
 |**2026-07-10**|**Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing**|Mohammad Dabaja et.al.|[2607.09583](http://arxiv.org/abs/2607.09583)|null|
@@ -688,5 +691,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
 
