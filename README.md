@@ -1,4 +1,4 @@
-## Updated on 2026.08.09
+## Updated on 2026.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -609,7 +609,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -680,8 +680,8 @@
 |**2025-09-07**|**Multimodal Prompt Injection Attacks: Risks and Defenses for Modern LLMs**|Andrew Yeo et.al.|[2509.05883](http://arxiv.org/abs/2509.05883)|null|
 |**2025-07-30**|**Invisible Injections: Exploiting Vision-Language Models Through Steganographic Prompt Embedding**|Chetan Pathade et.al.|[2507.22304](http://arxiv.org/abs/2507.22304)|null|
 |**2026-01-05**|**Text2VLM: Adapting Text-Only Datasets to Evaluate Alignment Training in Visual Language Models**|Gabriel Downer et.al.|[2507.20704](http://arxiv.org/abs/2507.20704)|null|
-|**2025-08-14**|**Hierarchical Cross-modal Prompt Learning for Vision-Language Models**|Hao Zheng et.al.|[2507.14976](http://arxiv.org/abs/2507.14976)|null|
-|**2025-06-25**|**VSF-Med:A Vulnerability Scoring Framework for Medical Vision-Language Models**|Binesh Sadanandan et.al.|[2507.00052](http://arxiv.org/abs/2507.00052)|null|
+|**2025-08-14**|**Hierarchical Cross-modal Prompt Learning for Vision-Language Models**|Hao Zheng et.al.|[2507.14976](http://arxiv.org/abs/2507.14976)|**[link](https://github.com/zzeoZheng/HiCroPL)**|
+|**2025-06-25**|**VSF-Med:A Vulnerability Scoring Framework for Medical Vision-Language Models**|Binesh Sadanandan et.al.|[2507.00052](http://arxiv.org/abs/2507.00052)|**[link](https://github.com/UNHSAILLab/VSF-Med)**|
 |**2025-06-10**|**Evaluation empirique de la sécurisation et de l'alignement de ChatGPT et Gemini: analyse comparative des vulnérabilités par expérimentations de jailbreaks**|Rafaël Nouailles et.al.|[2506.10029](http://arxiv.org/abs/2506.10029)|null|
 |**2025-08-24**|**Traveling Across Languages: Benchmarking Cross-Lingual Consistency in Multimodal LLMs**|Hao Wang et.al.|[2505.15075](http://arxiv.org/abs/2505.15075)|null|
 |**2025-10-17**|**WebInject: Prompt Injection Attack to Web Agents**|Xilong Wang et.al.|[2505.11717](http://arxiv.org/abs/2505.11717)|null|
@@ -700,5 +700,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260809>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
 
