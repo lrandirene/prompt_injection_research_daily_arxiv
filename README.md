@@ -1,4 +1,4 @@
-## Updated on 2026.08.10
+## Updated on 2026.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-10**|**Stealing Reasoning Traces from Proprietary LLM APIs**|Alexander Panfilov et.al.|[2608.09867](http://arxiv.org/abs/2608.09867)|null|
+|**2026-08-10**|**ChronoState: Hidden Elapsed-Time Conditioning for Temporal-State Action Selection in Frozen-Backbone Language Models**|Sam Siavoshian et.al.|[2608.09124](http://arxiv.org/abs/2608.09124)|null|
+|**2026-08-09**|**Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access**|Lier Jin et.al.|[2608.08942](http://arxiv.org/abs/2608.08942)|null|
+|**2026-08-09**|**Toward Metacognitive One-Shot Indirect Prompt Injection: Strategy Abstraction Via Outcome-Conditioned Reflection**|Sihan Hou et.al.|[2608.08795](http://arxiv.org/abs/2608.08795)|null|
+|**2026-08-09**|**SkillsMetric: Mapping the Detection Boundary of Static Analysis for Malicious Agent Skills**|Xinze Chen et.al.|[2608.08468](http://arxiv.org/abs/2608.08468)|null|
+|**2026-08-08**|**Defending Retrieval-Augmented Intrusion Detection Against Knowledge Poisoning and Prompt Injection**|Kaysarul Anas Apurba et.al.|[2608.08100](http://arxiv.org/abs/2608.08100)|null|
+|**2026-08-08**|**BASIS: Breach-Aware Selective Prompt Injection Shielding with Prefill Attention Probes**|Laiqiao Qin et.al.|[2608.08027](http://arxiv.org/abs/2608.08027)|null|
+|**2026-08-07**|**The Anatomy of a Prompt Injection: A Component Model for Structured Analysis**|Jeremy McHugh et.al.|[2608.07808](http://arxiv.org/abs/2608.07808)|null|
 |**2026-08-07**|**NiyamAI - An Intent-Bound AI Agent with Cryptographically Verifiable Guardrails using Zero-Knowledge Proofs**|Aditya Katkar et.al.|[2608.07167](http://arxiv.org/abs/2608.07167)|null|
 |**2026-08-05**|**Robust Context-Aware Detection of Malicious Instructions in Text**|Buzhao Liu et.al.|[2608.05430](http://arxiv.org/abs/2608.05430)|null|
 |**2026-08-05**|**Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming**|Yanting Wang et.al.|[2608.05108](http://arxiv.org/abs/2608.05108)|null|
@@ -610,7 +618,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -701,5 +709,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260811>back to top</a>)</p>
 
