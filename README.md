@@ -1,4 +1,4 @@
-## Updated on 2026.08.13
+## Updated on 2026.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -20,7 +20,7 @@
 |**2026-08-11**|**On Understanding, Identifying, and Mitigating Vulnerabilities in Agentic Large Language Models**|Md Jafrin Hossain et.al.|[2608.10530](http://arxiv.org/abs/2608.10530)|null|
 |**2026-08-10**|**From Prompt Injection to Web Exploitation: Revisiting Classic Vulnerabilities in LLM-Integrated Applications**|Spiros Tsigkopoulos et.al.|[2608.10281](http://arxiv.org/abs/2608.10281)|null|
 |**2026-08-10**|**Interpreting Language Model Hidden States at Scale**|Jordan Pettyjohn et.al.|[2608.10260](http://arxiv.org/abs/2608.10260)|null|
-|**2026-08-10**|**Stealing Reasoning Traces from Proprietary LLM APIs**|Alexander Panfilov et.al.|[2608.09867](http://arxiv.org/abs/2608.09867)|**[link](https://github.com/mitkox/stolen-thoughts)**|
+|**2026-08-10**|**Stealing Reasoning Traces from Proprietary LLM APIs**|Alexander Panfilov et.al.|[2608.09867](http://arxiv.org/abs/2608.09867)|null|
 |**2026-08-10**|**ChronoState: Hidden Elapsed-Time Conditioning for Temporal-State Action Selection in Frozen-Backbone Language Models**|Sam Siavoshian et.al.|[2608.09124](http://arxiv.org/abs/2608.09124)|null|
 |**2026-08-09**|**Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access**|Lier Jin et.al.|[2608.08942](http://arxiv.org/abs/2608.08942)|null|
 |**2026-08-09**|**Toward Metacognitive One-Shot Indirect Prompt Injection: Strategy Abstraction Via Outcome-Conditioned Reflection**|Sihan Hou et.al.|[2608.08795](http://arxiv.org/abs/2608.08795)|null|
@@ -623,7 +623,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260813>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260814>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -714,5 +714,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260813>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260814>back to top</a>)</p>
 
