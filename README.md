@@ -15,9 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-17**|**Security Assessment of DeepSeek Harness with A.I.G: Evaluating Resistance to Indirect Prompt Injection**|Zonghao Ying et.al.|[2608.16393](http://arxiv.org/abs/2608.16393)|null|
+|**2026-08-18**|**MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps**|Sujin Chen et.al.|[2608.17659](http://arxiv.org/abs/2608.17659)|null|
+|**2026-08-18**|**PACE: Policy-Attested Contract Execution for Safe AI Agents in Decentralized Finance**|Rabimba Karanjai et.al.|[2608.17220](http://arxiv.org/abs/2608.17220)|null|
+|**2026-08-18**|**Security Assessment of DeepSeek Harness with A.I.G: Evaluating Resistance to Indirect Prompt Injection**|Zonghao Ying et.al.|[2608.16393](http://arxiv.org/abs/2608.16393)|null|
 |**2026-08-17**|**Agent-Native Telemetry: Verifiable State-Delta Evidence for Autonomous Operations**|Jun He et.al.|[2608.16178](http://arxiv.org/abs/2608.16178)|null|
-|**2026-08-16**|**Bounded Agents: Delegation Security for Multi-Agent AI Systems**|Xabier Muruaga et.al.|[2608.15888](http://arxiv.org/abs/2608.15888)|**[link](https://github.com/xmuruaga/bounded-agents)**|
+|**2026-08-16**|**Bounded Agents: Delegation Security for Multi-Agent AI Systems**|Xabier Muruaga et.al.|[2608.15888](http://arxiv.org/abs/2608.15888)|null|
 |**2026-08-15**|**TwinGridShield: Consequence-Aware Runtime Authorization for LLM Grid-Agent Actions**|Md Fazley Rafy et.al.|[2608.15391](http://arxiv.org/abs/2608.15391)|null|
 |**2026-08-12**|**Rethinking Agent Security as a Networking Problem**|Van Tran et.al.|[2608.12172](http://arxiv.org/abs/2608.12172)|null|
 |**2026-08-12**|**ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents**|Yutao Mou et.al.|[2608.11878](http://arxiv.org/abs/2608.11878)|null|
