@@ -1,4 +1,4 @@
-## Updated on 2026.08.19
+## Updated on 2026.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -19,7 +19,7 @@
 |**2026-08-18**|**PACE: Policy-Attested Contract Execution for Safe AI Agents in Decentralized Finance**|Rabimba Karanjai et.al.|[2608.17220](http://arxiv.org/abs/2608.17220)|null|
 |**2026-08-18**|**Security Assessment of DeepSeek Harness with A.I.G: Evaluating Resistance to Indirect Prompt Injection**|Zonghao Ying et.al.|[2608.16393](http://arxiv.org/abs/2608.16393)|null|
 |**2026-08-17**|**Agent-Native Telemetry: Verifiable State-Delta Evidence for Autonomous Operations**|Jun He et.al.|[2608.16178](http://arxiv.org/abs/2608.16178)|null|
-|**2026-08-16**|**Bounded Agents: Delegation Security for Multi-Agent AI Systems**|Xabier Muruaga et.al.|[2608.15888](http://arxiv.org/abs/2608.15888)|null|
+|**2026-08-16**|**Bounded Agents: Delegation Security for Multi-Agent AI Systems**|Xabier Muruaga et.al.|[2608.15888](http://arxiv.org/abs/2608.15888)|**[link](https://github.com/xmuruaga/bounded-agents)**|
 |**2026-08-15**|**TwinGridShield: Consequence-Aware Runtime Authorization for LLM Grid-Agent Actions**|Md Fazley Rafy et.al.|[2608.15391](http://arxiv.org/abs/2608.15391)|null|
 |**2026-08-12**|**Rethinking Agent Security as a Networking Problem**|Van Tran et.al.|[2608.12172](http://arxiv.org/abs/2608.12172)|null|
 |**2026-08-12**|**ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents**|Yutao Mou et.al.|[2608.11878](http://arxiv.org/abs/2608.11878)|null|
@@ -629,7 +629,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -720,5 +720,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260820>back to top</a>)</p>
 
