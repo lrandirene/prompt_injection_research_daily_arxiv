@@ -1,4 +1,4 @@
-## Updated on 2026.08.23
+## Updated on 2026.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -154,10 +154,10 @@
 |**2026-05-27**|**Mitigating Adaptive Attacks against Reasoning Models with Activation Consistency Training**|Avidan Shah et.al.|[2605.28467](http://arxiv.org/abs/2605.28467)|null|
 |**2026-05-28**|**Can It Reach the Generator? Investigating the Survival of Prompt-Injection Attacks in Realistic RAG Settings**|Yu Yin et.al.|[2605.28017](http://arxiv.org/abs/2605.28017)|null|
 |**2026-05-26**|**Prompt Injection Detection is Regime-Dependent: A Deployment-Aware Evaluation with Interpretable Structural Signals**|Akindoyin Akinrele et.al.|[2605.26999](http://arxiv.org/abs/2605.26999)|null|
-|**2026-05-26**|**Cordyceps: Covert Control Attacks on LLMs via Data Poisoning**|Zedian Shao et.al.|[2605.26595](http://arxiv.org/abs/2605.26595)|null|
+|**2026-05-26**|**Cordyceps: Covert Control Attacks on LLMs via Data Poisoning**|Zedian Shao et.al.|[2605.26595](http://arxiv.org/abs/2605.26595)|**[link](https://github.com/Sadcardation/cordyceps)**|
 |**2026-05-26**|**Aligning Provenance with Authorization: A Dual-Graph Defense for LLM Agents**|Peiran Wang et.al.|[2605.26497](http://arxiv.org/abs/2605.26497)|null|
-|**2026-05-25**|**AgentSecBench: Measuring Prompt Injection, Privacy Leakage, and Tool-Use Integrity in LLM Agents**|Faruk Alpay et.al.|[2605.26269](http://arxiv.org/abs/2605.26269)|null|
-|**2026-05-24**|**Device Context Protocol: A Compact, Safety-First Architecture for LLM-Driven Control of Constrained Devices**|Dongxu Yang et.al.|[2605.26159](http://arxiv.org/abs/2605.26159)|null|
+|**2026-05-25**|**AgentSecBench: Measuring Prompt Injection, Privacy Leakage, and Tool-Use Integrity in LLM Agents**|Faruk Alpay et.al.|[2605.26269](http://arxiv.org/abs/2605.26269)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-05-24**|**Device Context Protocol: A Compact, Safety-First Architecture for LLM-Driven Control of Constrained Devices**|Dongxu Yang et.al.|[2605.26159](http://arxiv.org/abs/2605.26159)|**[link](https://github.com/device-context-protocol/dcp)**|
 |**2026-05-25**|**LLM-as-a-Reviewer: Benchmarking Their Ability, Divergence, and Prompt Injection Resistance as Paper Reviewers**|Lingyao Li et.al.|[2605.25415](http://arxiv.org/abs/2605.25415)|null|
 |**2026-05-23**|**IterInject: Indirect Prompt Injection Against LLM Agents via Feedback-Guided Iterative Optimization**|Zixuan Chen et.al.|[2605.24659](http://arxiv.org/abs/2605.24659)|null|
 |**2026-05-23**|**Poisoning the Watchtower: Prompt Injection Attacks Against LLM-Augmented Security Operations Through Adversarial Log Content**|Rohan Pandey et.al.|[2605.24421](http://arxiv.org/abs/2605.24421)|null|
@@ -330,11 +330,11 @@
 |**2025-11-15**|**Privacy-Preserving Prompt Injection Detection for LLMs Using Federated Learning and Embedding-Based NLP Classification**|Hasini Jayathilaka et.al.|[2511.12295](http://arxiv.org/abs/2511.12295)|null|
 |**2025-11-13**|**PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization**|Runpeng Geng et.al.|[2511.10720](http://arxiv.org/abs/2511.10720)|null|
 |**2025-11-09**|**RAG-targeted Adversarial Attack on LLM-based Threat Detection and Mitigation Framework**|Seif Ikbarieh et.al.|[2511.06212](http://arxiv.org/abs/2511.06212)|null|
-|**2026-03-24**|**Injecting Falsehoods: Adversarial Man-in-the-Middle Attacks Undermining Factual Recall in LLMs**|Alina Fastowski et.al.|[2511.05919](http://arxiv.org/abs/2511.05919)|null|
+|**2026-03-24**|**Injecting Falsehoods: Adversarial Man-in-the-Middle Attacks Undermining Factual Recall in LLMs**|Alina Fastowski et.al.|[2511.05919](http://arxiv.org/abs/2511.05919)|**[link](https://github.com/afastowski/llm_attack)**|
 |**2026-01-22**|**Can LLM Infer Risk Information From MCP Server System Logs?**|Jiayi Fu et.al.|[2511.05867](http://arxiv.org/abs/2511.05867)|null|
-|**2025-11-08**|**When AI Meets the Web: Prompt Injection Risks in Third-Party AI Chatbot Plugins**|Yigitcan Kaya et.al.|[2511.05797](http://arxiv.org/abs/2511.05797)|null|
+|**2025-11-08**|**When AI Meets the Web: Prompt Injection Risks in Third-Party AI Chatbot Plugins**|Yigitcan Kaya et.al.|[2511.05797](http://arxiv.org/abs/2511.05797)|**[link](https://github.com/yigitcankaya/SP2026_WhenAIMeetsTheWeb)**|
 |**2026-02-18**|**Reasoning Up the Instruction Ladder for Controllable Language Models**|Zishuo Zheng et.al.|[2511.04694](http://arxiv.org/abs/2511.04694)|null|
-|**2025-11-06**|**Large Language Models for Cyber Security**|Raunak Somani et.al.|[2511.04508](http://arxiv.org/abs/2511.04508)|null|
+|**2025-11-06**|**Large Language Models for Cyber Security**|Raunak Somani et.al.|[2511.04508](http://arxiv.org/abs/2511.04508)|**[link](https://github.com/WHAZAZA/AI-cyber-range)**|
 |**2025-11-05**|**Inter-Agent Trust Models: A Comparative Study of Brief, Claim, Proof, Stake, Reputation and Constraint in Agentic Web Protocol Design-A2A, AP2, ERC-8004, and Beyond**|Botao 'Amber' Hu et.al.|[2511.03434](http://arxiv.org/abs/2511.03434)|null|
 |**2025-11-05**|**Death by a Thousand Prompts: Open Model Vulnerability Analysis**|Amy Chang et.al.|[2511.03247](http://arxiv.org/abs/2511.03247)|null|
 |**2025-11-11**|**Prompt Injection as an Emerging Threat: Evaluating the Resilience of Large Language Models**|Daniyal Ganiuly et.al.|[2511.01634](http://arxiv.org/abs/2511.01634)|null|
@@ -630,7 +630,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -721,5 +721,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
