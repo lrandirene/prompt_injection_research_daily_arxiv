@@ -1,4 +1,4 @@
-## Updated on 2026.08.24
+## Updated on 2026.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-24**|**AgentFlow: A Flow-Centric Policy Language and Framework for Securing LLM Agent Systems**|Basavesh Ammanaghatta Shivakumar et.al.|[2608.22868](http://arxiv.org/abs/2608.22868)|null|
+|**2026-08-23**|**Beyond Over-Refusal: Defending Indirect Prompt Injection via Latent Instruction Manifolds**|Jiahao Chen et.al.|[2608.22248](http://arxiv.org/abs/2608.22248)|null|
+|**2026-08-21**|**Mitigating Database Leakage in RAG Systems with Keyword-Grounded Fact Substitution**|Ziliang Zhang et.al.|[2608.21656](http://arxiv.org/abs/2608.21656)|null|
+|**2026-08-21**|**SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation**|Yibo Peng et.al.|[2608.21500](http://arxiv.org/abs/2608.21500)|null|
 |**2026-08-21**|**TraceGrant: A Contract-Governed Security Framework for the Task-Effect Lifecycle of Networked LLM Agents**|Bohao Liao et.al.|[2608.21126](http://arxiv.org/abs/2608.21126)|null|
 |**2026-08-15**|**BioFirewall: A genome-writing-native governance layer for design-stage biosecurity screening of agentic AI**|Anees Ahmed Mahaboob Ali et.al.|[2608.20413](http://arxiv.org/abs/2608.20413)|null|
 |**2026-08-20**|**COPA: Continual Preference Optimization for Adaptive Prompt Injection Defense**|Roshan Sood et.al.|[2608.19982](http://arxiv.org/abs/2608.19982)|null|
@@ -632,7 +636,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260825>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -723,5 +727,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260825>back to top</a>)</p>
 
