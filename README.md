@@ -1,4 +1,4 @@
-## Updated on 2026.08.30
+## Updated on 2026.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -351,9 +351,9 @@
 |**2025-11-05**|**Death by a Thousand Prompts: Open Model Vulnerability Analysis**|Amy Chang et.al.|[2511.03247](http://arxiv.org/abs/2511.03247)|null|
 |**2025-11-11**|**Prompt Injection as an Emerging Threat: Evaluating the Resilience of Large Language Models**|Daniyal Ganiuly et.al.|[2511.01634](http://arxiv.org/abs/2511.01634)|null|
 |**2025-11-18**|**DRIP: Defending Prompt Injection via Token-wise Representation Editing and Residual Instruction Fusion**|Ruofan Liu et.al.|[2511.00447](http://arxiv.org/abs/2511.00447)|null|
-|**2025-10-30**|**Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections**|David Schmotz et.al.|[2510.26328](http://arxiv.org/abs/2510.26328)|null|
+|**2025-10-30**|**Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections**|David Schmotz et.al.|[2510.26328](http://arxiv.org/abs/2510.26328)|**[link](https://github.com/aisa-group/promptinject-agent-skills)**|
 |**2025-10-26**|**Sentra-Guard: A Multilingual Human-AI Framework for Real-Time Defense Against Adversarial LLM Jailbreaks**|Md. Mehedi Hasan et.al.|[2510.22628](http://arxiv.org/abs/2510.22628)|null|
-|**2026-01-17**|**Soft Instruction De-escalation Defense**|Nils Philipp Walter et.al.|[2510.21057](http://arxiv.org/abs/2510.21057)|null|
+|**2026-01-17**|**Soft Instruction De-escalation Defense**|Nils Philipp Walter et.al.|[2510.21057](http://arxiv.org/abs/2510.21057)|**[link](https://github.com/nilspwalter/sic)**|
 |**2025-10-20**|**CourtGuard: A Local, Multiagent Prompt Injection Classifier**|Isaac Wu et.al.|[2510.19844](http://arxiv.org/abs/2510.19844)|null|
 |**2026-02-04**|**Defending Against Prompt Injection with DataFilter**|Yizhu Wang et.al.|[2510.19207](http://arxiv.org/abs/2510.19207)|null|
 |**2025-10-29**|**OpenGuardrails: A Configurable, Unified, and Scalable Guardrails Platform for Large Language Models**|Thomas Wang et.al.|[2510.19169](http://arxiv.org/abs/2510.19169)|null|
@@ -553,8 +553,8 @@
 |**2024-11-18**|**Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks**|Dario Pasquini et.al.|[2410.20911](http://arxiv.org/abs/2410.20911)|null|
 |**2024-10-23**|**Countering Autonomous Cyber Threats**|Kade M. Heckel et.al.|[2410.18312](http://arxiv.org/abs/2410.18312)|null|
 |**2026-01-27**|**MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control**|Juyong Lee et.al.|[2410.17520](http://arxiv.org/abs/2410.17520)|null|
-|**2024-10-22**|**Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In**|Itay Nakash et.al.|[2410.16950](http://arxiv.org/abs/2410.16950)|null|
-|**2024-10-21**|**SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis**|Aidan Wong et.al.|[2410.15641](http://arxiv.org/abs/2410.15641)|null|
+|**2024-10-22**|**Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In**|Itay Nakash et.al.|[2410.16950](http://arxiv.org/abs/2410.16950)|**[link](https://github.com/IBM/Breaking-ReAct-Agents-FITD)**|
+|**2024-10-21**|**SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis**|Aidan Wong et.al.|[2410.15641](http://arxiv.org/abs/2410.15641)|**[link](https://github.com/IDEA-XL/ChemSafety)**|
 |**2025-09-15**|**Enhancing Prompt Injection Attacks to LLMs via Poisoning Alignment**|Zedian Shao et.al.|[2410.14827](http://arxiv.org/abs/2410.14827)|null|
 |**2024-10-18**|**Backdoored Retrievers for Prompt Injection Attacks on Retrieval Augmented Generation of Large Language Models**|Cody Clop et.al.|[2410.14479](http://arxiv.org/abs/2410.14479)|null|
 |**2025-02-10**|**LLM Agent Honeypot: Monitoring AI Hacking Agents in the Wild**|Reworr et.al.|[2410.13919](http://arxiv.org/abs/2410.13919)|null|
@@ -564,10 +564,10 @@
 |**2025-03-01**|**Instructional Segment Embedding: Improving LLM Safety with Instruction Hierarchy**|Tong Wu et.al.|[2410.09102](http://arxiv.org/abs/2410.09102)|null|
 |**2024-10-14**|**F2A: An Innovative Approach for Prompt Injection by Utilizing Feign Security Detection Agents**|Yupeng Ren et.al.|[2410.08776](http://arxiv.org/abs/2410.08776)|null|
 |**2024-10-09**|**Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems**|Donghyun Lee et.al.|[2410.07283](http://arxiv.org/abs/2410.07283)|null|
-|**2025-07-03**|**SecAlign: Defending Against Prompt Injection with Preference Optimization**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|null|
+|**2025-07-03**|**SecAlign: Defending Against Prompt Injection with Preference Optimization**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|**[link](https://github.com/facebookresearch/SecAlign)**|
 |**2024-10-07**|**A test suite of prompt injection attacks for LLM-based machine translation**|Antonio Valerio Miceli-Barone et.al.|[2410.05047](http://arxiv.org/abs/2410.05047)|null|
 |**2025-04-09**|**LLM Safeguard is a Double-Edged Sword: Exploiting False Positives for Denial-of-Service Attacks**|Qingzhao Zhang et.al.|[2410.02916](http://arxiv.org/abs/2410.02916)|null|
-|**2025-05-30**|**Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**|Hanrong Zhang et.al.|[2410.02644](http://arxiv.org/abs/2410.02644)|null|
+|**2025-05-30**|**Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**|Hanrong Zhang et.al.|[2410.02644](http://arxiv.org/abs/2410.02644)|**[link](https://github.com/TongWang121/agent-security-bench)**|
 |**2024-09-29**|**GenTel-Safe: A Unified Benchmark and Shielding Framework for Defending Against Prompt Injection Attacks**|Rongchang Li et.al.|[2409.19521](http://arxiv.org/abs/2409.19521)|null|
 |**2024-10-10**|**System-Level Defense against Indirect Prompt Injection Attacks: An Information Flow Control Perspective**|Fangzhou Wu et.al.|[2409.19091](http://arxiv.org/abs/2409.19091)|null|
 |**2025-04-03**|**PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs**|Jiahao Yu et.al.|[2409.14729](http://arxiv.org/abs/2409.14729)|null|
@@ -642,7 +642,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -733,5 +733,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
