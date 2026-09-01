@@ -1,4 +1,4 @@
-## Updated on 2026.08.31
+## Updated on 2026.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,9 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-28**|**LongPIBench: A Long-Context Benchmark for Prompt Injection**|Yupei Liu et.al.|[2608.28411](http://arxiv.org/abs/2608.28411)|**[link](https://github.com/liu00222/LongPIBench)**|
+|**2026-08-31**|**ECLIPSE: Self-Evolving Stealthy Prompt Injection Attack against Long-Horizon Agentic Systems**|Shiqian Zhao et.al.|[2608.30441](http://arxiv.org/abs/2608.30441)|null|
+|**2026-08-31**|**Attesting Outputs and Delegation Ancestry in Multi-Agent AI Systems**|Lifei Liu et.al.|[2608.30387](http://arxiv.org/abs/2608.30387)|null|
+|**2026-08-31**|**Will the User Ever Know? Covert Indirect Prompt Injection on Tool-Using LLM Agents**|Yunseok Lee et.al.|[2608.30362](http://arxiv.org/abs/2608.30362)|null|
+|**2026-08-30**|**Reachability-Based Capability Confinement for LLM Agents under Indirect Prompt Injection**|Wujie Xiong et.al.|[2608.30041](http://arxiv.org/abs/2608.30041)|null|
+|**2026-08-28**|**LongPIBench: A Long-Context Benchmark for Prompt Injection**|Yupei Liu et.al.|[2608.28411](http://arxiv.org/abs/2608.28411)|null|
 |**2026-08-28**|**CAITLYN: Can LLM Agents Autonomously Synthesize Defenses against Emerging Injection Attacks?**|Zi Liang et.al.|[2608.27990](http://arxiv.org/abs/2608.27990)|null|
-|**2026-08-27**|**ROPE: Routed Origin Policy Enforcement against Indirect Prompt Injection**|Xinhang Ma et.al.|[2608.27496](http://arxiv.org/abs/2608.27496)|**[link](https://github.com/xhOwenMa/ROPE)**|
+|**2026-08-27**|**ROPE: Routed Origin Policy Enforcement against Indirect Prompt Injection**|Xinhang Ma et.al.|[2608.27496](http://arxiv.org/abs/2608.27496)|null|
 |**2026-08-27**|**The Framing Gap: Indirect Prompt-Injection Exfiltration Defeats Surface-Level Defenses in Tool-Using Agents**|Md Habibur Rahman et.al.|[2608.27092](http://arxiv.org/abs/2608.27092)|null|
 |**2026-08-25**|**What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions**|Yichao Gao et.al.|[2608.24022](http://arxiv.org/abs/2608.24022)|null|
 |**2026-08-25**|**WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents**|Lin-Fa Lee et.al.|[2608.24017](http://arxiv.org/abs/2608.24017)|null|
@@ -645,12 +649,13 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**SIR: Self-improving Red-teaming for Compute Use Agents**|Chen Xiong et.al.|[2608.30207](http://arxiv.org/abs/2608.30207)|null|
 |**2026-08-06**|**Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots**|S. M . Bhagya P. Samarakoon et.al.|[2608.05715](http://arxiv.org/abs/2608.05715)|null|
 |**2026-08-06**|**PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents**|He Zhang et.al.|[2608.05495](http://arxiv.org/abs/2608.05495)|null|
 |**2026-08-06**|**Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents**|Jia-Chen Zhang et.al.|[2608.02018](http://arxiv.org/abs/2608.02018)|null|
@@ -736,5 +741,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
