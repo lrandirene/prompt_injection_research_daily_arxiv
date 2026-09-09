@@ -1,4 +1,4 @@
-## Updated on 2026.09.08
+## Updated on 2026.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,13 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-07**|**AgentDrift: A Step-Labeled Benchmark of Injection-Hijacked LLM Agent Trajectories**|Asif Pinjari et.al.|[2609.06972](http://arxiv.org/abs/2609.06972)|null|
+|**2026-09-05**|**EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents**|Nanxi Li et.al.|[2609.05903](http://arxiv.org/abs/2609.05903)|**[link](https://github.com/andylinx/EvoSafeHarness)**|
+|**2026-09-05**|**From Review to Authorization: Key-Isolated Threshold Signing for LLM Agents**|Yu Zheng et.al.|[2609.05901](http://arxiv.org/abs/2609.05901)|null|
 |**2026-09-03**|**Shifting from Injection to Interaction: Rethinking Web Security in the Age of LLMs and Beyond**|Nivedita Singh et.al.|[2609.03999](http://arxiv.org/abs/2609.03999)|null|
 |**2026-09-02**|**Stored Is Not Supported: Typed Provenance and Assertion Guardrails for Persistent AI Agents**|Jun He et.al.|[2609.02127](http://arxiv.org/abs/2609.02127)|null|
 |**2026-09-02**|**Implicit Manipulation for Skill Selection in LLM Agents with Semantic Matching**|Qikai Wang et.al.|[2609.02035](http://arxiv.org/abs/2609.02035)|null|
 |**2026-09-01**|**HiveTraceGuard-Pro: A Compact Generative Guardrail for Prompt Injection, Jailbreaks, and Adversarial Obfuscation**|Nikita Oblakov et.al.|[2609.01046](http://arxiv.org/abs/2609.01046)|null|
 |**2026-08-31**|**Delegation Without Trust: An Empirical Gap Analysis of Identity, Authorization, and Runtime Governance in Multi-Agent LLM Systems**|Panduranga Sai Varma Dantuluri et.al.|[2609.00267](http://arxiv.org/abs/2609.00267)|null|
 |**2026-08-30**|**AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes**|Xun Wang et.al.|[2609.00052](http://arxiv.org/abs/2609.00052)|null|
-|**2026-08-31**|**ECLIPSE: Self-Evolving Stealthy Prompt Injection Attack against Long-Horizon Agentic Systems**|Shiqian Zhao et.al.|[2608.30441](http://arxiv.org/abs/2608.30441)|null|
+|**2026-09-06**|**ECLIPSE: Self-Evolving Stealthy Prompt Injection Attack against Long-Horizon Agentic Systems**|Shiqian Zhao et.al.|[2608.30441](http://arxiv.org/abs/2608.30441)|null|
 |**2026-08-31**|**Attesting Outputs and Delegation Ancestry in Multi-Agent AI Systems**|Lifei Liu et.al.|[2608.30387](http://arxiv.org/abs/2608.30387)|null|
 |**2026-09-01**|**Will the User Ever Know? Covert Indirect Prompt Injection Attacks on Tool-Using LLM Agents**|Yunseok Lee et.al.|[2608.30362](http://arxiv.org/abs/2608.30362)|null|
 |**2026-08-30**|**Reachability-Based Capability Confinement for LLM Agents under Indirect Prompt Injection**|Wujie Xiong et.al.|[2608.30041](http://arxiv.org/abs/2608.30041)|null|
@@ -655,12 +658,13 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**Beyond the Verdict: Evidence-Aligned Evaluation of Visual Prompt-Injection Guardrails**|Suyoung Lee et.al.|[2609.05535](http://arxiv.org/abs/2609.05535)|null|
 |**2026-08-31**|**SIR: Self-improving Red-teaming for Compute Use Agents**|Chen Xiong et.al.|[2608.30207](http://arxiv.org/abs/2608.30207)|null|
 |**2026-08-06**|**Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots**|S. M . Bhagya P. Samarakoon et.al.|[2608.05715](http://arxiv.org/abs/2608.05715)|null|
 |**2026-08-06**|**PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents**|He Zhang et.al.|[2608.05495](http://arxiv.org/abs/2608.05495)|null|
@@ -747,5 +751,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
