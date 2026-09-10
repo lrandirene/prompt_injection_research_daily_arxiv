@@ -16,7 +16,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-09-07**|**AgentDrift: A Step-Labeled Benchmark of Injection-Hijacked LLM Agent Trajectories**|Asif Pinjari et.al.|[2609.06972](http://arxiv.org/abs/2609.06972)|null|
-|**2026-09-05**|**EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents**|Nanxi Li et.al.|[2609.05903](http://arxiv.org/abs/2609.05903)|**[link](https://github.com/andylinx/EvoSafeHarness)**|
+|**2026-09-05**|**EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents**|Nanxi Li et.al.|[2609.05903](http://arxiv.org/abs/2609.05903)|**[link](https://github.com/SaFo-Lab/EvoSafeHarness)**|
 |**2026-09-05**|**From Review to Authorization: Key-Isolated Threshold Signing for LLM Agents**|Yu Zheng et.al.|[2609.05901](http://arxiv.org/abs/2609.05901)|null|
 |**2026-09-03**|**Shifting from Injection to Interaction: Rethinking Web Security in the Age of LLMs and Beyond**|Nivedita Singh et.al.|[2609.03999](http://arxiv.org/abs/2609.03999)|null|
 |**2026-09-02**|**Stored Is Not Supported: Typed Provenance and Assertion Guardrails for Persistent AI Agents**|Jun He et.al.|[2609.02127](http://arxiv.org/abs/2609.02127)|null|
