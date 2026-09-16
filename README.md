@@ -1,4 +1,4 @@
-## Updated on 2026.09.14
+## Updated on 2026.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems**|Deepak Akkil et.al.|[2609.17320](http://arxiv.org/abs/2609.17320)|null|
+|**2026-09-14**|**Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks**|Xiaoyan Li et.al.|[2609.16098](http://arxiv.org/abs/2609.16098)|null|
+|**2026-09-14**|**Approval Integrity and Recovery in LLM Answer Publication**|Faruk Alpay et.al.|[2609.15576](http://arxiv.org/abs/2609.15576)|null|
+|**2026-09-14**|**ActGuard: Pre-execution Action Auditing against Indirect Prompt Injection in LLM Agents**|Bingzheng Wang et.al.|[2609.14987](http://arxiv.org/abs/2609.14987)|null|
+|**2026-09-12**|**SkillSecurer: Detecting and Patching Prompt-Injection Vulnerabilities in AI Agent Skills**|Donato Mecca et.al.|[2609.14079](http://arxiv.org/abs/2609.14079)|null|
+|**2026-09-12**|**Confuse the Model, Control the Flow: Understanding and Mitigating Privacy Leakage from LLM Agents with Information Flow Control**|Minsun Shim et.al.|[2609.14003](http://arxiv.org/abs/2609.14003)|null|
+|**2026-09-11**|**The Agentic Company OS: Substrate Inversion for Sustained Enterprise Agent Deployment**|Oliver Aleksander Larsen et.al.|[2609.13334](http://arxiv.org/abs/2609.13334)|null|
 |**2026-09-09**|**DriftNet: A Dual-Head Trajectory Transformer for Detecting and Localizing Prompt Injection in LLM Agents**|Asif Pinjari et.al.|[2609.10892](http://arxiv.org/abs/2609.10892)|null|
 |**2026-09-09**|**No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers**|Zehua Zhang et.al.|[2609.10854](http://arxiv.org/abs/2609.10854)|null|
 |**2026-09-09**|**Architecting the Secure AI-SOC: A Neurosymbolic Framework for Pipeline Integrity and Threat Mitigation**|Anna Gazani et.al.|[2609.10707](http://arxiv.org/abs/2609.10707)|null|
@@ -661,7 +668,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -755,5 +762,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
