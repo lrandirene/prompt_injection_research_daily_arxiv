@@ -1,4 +1,4 @@
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**Specifying and Maintaining Agentic Workflows: An Empirical Study of GitHub Agentic Workflows**|Jasem Khelifi et.al.|[2609.27263](http://arxiv.org/abs/2609.27263)|null|
+|**2026-09-22**|**Ajar: Measuring Open Privilege in Agent Defenses**|Reshabh K Sharma et.al.|[2609.26900](http://arxiv.org/abs/2609.26900)|null|
 |**2026-09-21**|**Universal Fractal Natural Language Decision Map: Real-Time Edge Triage Across Heterogeneous Domains**|Volkan Dağlı et.al.|[2609.25498](http://arxiv.org/abs/2609.25498)|null|
 |**2026-09-21**|**Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection**|Fernando Outeda et.al.|[2609.24801](http://arxiv.org/abs/2609.24801)|null|
 |**2026-09-22**|**ActGov: Governing LLM Agent Actions via Policy-Constrained Validation**|Kaiyuan Zhang et.al.|[2609.24446](http://arxiv.org/abs/2609.24446)|null|
@@ -681,7 +683,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -775,5 +777,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
