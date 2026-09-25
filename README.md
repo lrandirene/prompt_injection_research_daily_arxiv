@@ -1,4 +1,4 @@
-## Updated on 2026.09.24
+## Updated on 2026.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,9 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure**|David Schmotz et.al.|[2609.30217](http://arxiv.org/abs/2609.30217)|null|
+|**2026-09-24**|**Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs**|Lukáš Brůna et.al.|[2609.29775](http://arxiv.org/abs/2609.29775)|null|
+|**2026-09-24**|**OllamaDrama: Designing and Deploying a Honeypot to Measure Attacks on Exposed LLM Infrastructure**|Karina Elzer et.al.|[2609.29757](http://arxiv.org/abs/2609.29757)|null|
+|**2026-09-24**|**Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures**|Ruoqi Guo et.al.|[2609.29429](http://arxiv.org/abs/2609.29429)|null|
+|**2026-09-24**|**ClaimMirage: When Self-Claims in Domain Names Change LLM Threat Judgments**|Daiki Chiba et.al.|[2609.29130](http://arxiv.org/abs/2609.29130)|null|
 |**2026-09-23**|**Specifying and Maintaining Agentic Workflows: An Empirical Study of GitHub Agentic Workflows**|Jasem Khelifi et.al.|[2609.27263](http://arxiv.org/abs/2609.27263)|null|
 |**2026-09-22**|**Ajar: Measuring Open Privilege in Agent Defenses**|Reshabh K Sharma et.al.|[2609.26900](http://arxiv.org/abs/2609.26900)|null|
-|**2026-09-21**|**Universal Fractal Natural Language Decision Map: Real-Time Edge Triage Across Heterogeneous Domains**|Volkan Dağlı et.al.|[2609.25498](http://arxiv.org/abs/2609.25498)|null|
+|**2026-09-24**|**Universal Fractal Natural Language Decision Map: Real-Time Edge Triage Across Heterogeneous Domains**|Volkan Dağlı et.al.|[2609.25498](http://arxiv.org/abs/2609.25498)|null|
 |**2026-09-21**|**Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection**|Fernando Outeda et.al.|[2609.24801](http://arxiv.org/abs/2609.24801)|null|
 |**2026-09-22**|**ActGov: Governing LLM Agent Actions via Policy-Constrained Validation**|Kaiyuan Zhang et.al.|[2609.24446](http://arxiv.org/abs/2609.24446)|null|
 |**2026-09-19**|**Beyond Single-Model Injection: A Threat Model and Defense Architecture for Prompt Injection in Multi-Agent Systems**|Rudrendu Kumar Paul et.al.|[2609.22949](http://arxiv.org/abs/2609.22949)|null|
@@ -683,12 +688,13 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**Through Human Eyes and Machine Eyes: Understanding View Mismatch in Video See-Through Extended Reality**|Yanming Xiu et.al.|[2609.29173](http://arxiv.org/abs/2609.29173)|null|
 |**2026-09-08**|**An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks**|Viet K. Nguyen et.al.|[2609.09404](http://arxiv.org/abs/2609.09404)|null|
 |**2026-09-02**|**Beyond the Verdict: Evidence-Aligned Evaluation of Visual Prompt-Injection Guardrails**|Suyoung Lee et.al.|[2609.05535](http://arxiv.org/abs/2609.05535)|null|
 |**2026-08-31**|**SIR: Self-improving Red-teaming for Compute Use Agents**|Chen Xiong et.al.|[2608.30207](http://arxiv.org/abs/2608.30207)|null|
@@ -777,5 +783,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
