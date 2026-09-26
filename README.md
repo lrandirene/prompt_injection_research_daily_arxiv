@@ -1,4 +1,4 @@
-## Updated on 2026.09.25
+## Updated on 2026.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -18,7 +18,7 @@
 |**2026-09-24**|**Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure**|David Schmotz et.al.|[2609.30217](http://arxiv.org/abs/2609.30217)|null|
 |**2026-09-24**|**Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs**|Lukáš Brůna et.al.|[2609.29775](http://arxiv.org/abs/2609.29775)|null|
 |**2026-09-24**|**OllamaDrama: Designing and Deploying a Honeypot to Measure Attacks on Exposed LLM Infrastructure**|Karina Elzer et.al.|[2609.29757](http://arxiv.org/abs/2609.29757)|null|
-|**2026-09-24**|**Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures**|Ruoqi Guo et.al.|[2609.29429](http://arxiv.org/abs/2609.29429)|null|
+|**2026-09-24**|**Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures**|Ruoqi Guo et.al.|[2609.29429](http://arxiv.org/abs/2609.29429)|**[link](https://github.com/rubichandrap/system-one-guard)**|
 |**2026-09-24**|**ClaimMirage: When Self-Claims in Domain Names Change LLM Threat Judgments**|Daiki Chiba et.al.|[2609.29130](http://arxiv.org/abs/2609.29130)|null|
 |**2026-09-23**|**Specifying and Maintaining Agentic Workflows: An Empirical Study of GitHub Agentic Workflows**|Jasem Khelifi et.al.|[2609.27263](http://arxiv.org/abs/2609.27263)|null|
 |**2026-09-22**|**Ajar: Measuring Open Privilege in Agent Defenses**|Reshabh K Sharma et.al.|[2609.26900](http://arxiv.org/abs/2609.26900)|null|
@@ -688,7 +688,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -783,5 +783,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
 
