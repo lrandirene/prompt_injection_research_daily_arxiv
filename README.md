@@ -1,4 +1,4 @@
-## Updated on 2026.09.28
+## Updated on 2026.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**Nudgeability: Reasoning Models Follow Confidence Signals Without Tracking Their Own Competence**|Rohit Saxena et.al.|[2609.34572](http://arxiv.org/abs/2609.34572)|null|
+|**2026-09-28**|**CoDeL: Co-Evolutionary Defense against Indirect Prompt Injection in LLM-based Agents**|Xiao Yang et.al.|[2609.34463](http://arxiv.org/abs/2609.34463)|null|
+|**2026-09-28**|**Certified Multi-Source Integrity for Structured Agent Actions**|Anmol Pandey et.al.|[2609.34245](http://arxiv.org/abs/2609.34245)|null|
+|**2026-09-27**|**When Consent Outlives Context: Residual Authority Replay in Long-Lived Agents**|Zhihao Zhang et.al.|[2609.33910](http://arxiv.org/abs/2609.33910)|null|
+|**2026-09-27**|**Climbing the Hill: Prompt Injection Red-Teaming Against Frontier Models with Curriculum Reinforcement Learning**|Chenlong Yin et.al.|[2609.33628](http://arxiv.org/abs/2609.33628)|null|
+|**2026-09-27**|**Evaluating System One Models for Agent Security Decisions: Reliability, Calibration, and Selective Automation**|Yixuan Liu et.al.|[2609.33401](http://arxiv.org/abs/2609.33401)|null|
+|**2026-09-27**|**API Secrets Should Never Become Tokens in the LLM's Vocabulary: A Threat Analysis of API Credential Handling in LLM Agent Systems and an Empirical Evaluation of a Vault-Mediated Execution Boundary**|Patrick Kenney et.al.|[2609.33371](http://arxiv.org/abs/2609.33371)|null|
+|**2026-09-27**|**ORBIT: A Framework for Multi-Agent Safety and Security Evaluations**|Ben Hagag et.al.|[2609.33102](http://arxiv.org/abs/2609.33102)|null|
+|**2026-09-26**|**Silent Failures in Agentic Security Evaluation: A Validated Harness for Tool-Call Mediation Under Indirect Prompt Injection**|Animesh Shaw et.al.|[2609.32691](http://arxiv.org/abs/2609.32691)|null|
 |**2026-09-25**|**MetaPermit: Scalable and Auditable Access Control for AI Agents via LLM-Inferred Meta-Attributes**|Hanzhang Ma et.al.|[2609.31039](http://arxiv.org/abs/2609.31039)|null|
 |**2026-09-25**|**Crypto-bound identity-verified capability tokens for coordinating distributed AI agents: A proposal**|Srikumar Subramanian et.al.|[2609.30824](http://arxiv.org/abs/2609.30824)|null|
 |**2026-09-25**|**Prompt Injection Detection for Email Agents Through Attack Chain Modeling**|Ahmad Hashmi et.al.|[2609.30657](http://arxiv.org/abs/2609.30657)|null|
@@ -691,7 +700,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -786,5 +795,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
