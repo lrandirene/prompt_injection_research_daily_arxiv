@@ -1,4 +1,4 @@
-## Updated on 2026.09.29
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**ContractWarden: Kernel-Enforced Damage Boundaries for AI Agents via Human-Authorized Contracts**|Dongxu Cui et.al.|[2609.38248](http://arxiv.org/abs/2609.38248)|null|
+|**2026-09-29**|**Where Do LLMs Decide to Break the Rules? Mechanistic Localization of Prompt Injection Compliance**|Rui Wen et.al.|[2609.37737](http://arxiv.org/abs/2609.37737)|null|
+|**2026-09-29**|**ToolFence: Fine-Grained Authorization for Secure Tool-Using LLM Agents**|Yanjie Li et.al.|[2609.37196](http://arxiv.org/abs/2609.37196)|null|
+|**2026-09-29**|**Selecting The Most Informative Tokens in Natural Language Autoencoders**|Federico Torrielli et.al.|[2609.37040](http://arxiv.org/abs/2609.37040)|null|
+|**2026-09-29**|**pikit: A Composable Toolkit for Indirect Prompt Injection Research and Evaluation**|Zonghao Ying et.al.|[2609.36817](http://arxiv.org/abs/2609.36817)|null|
+|**2026-09-29**|**Self-Evolving Defense: Continual Security Policy Learning for LLM Agents**|Minh Nhat Le et.al.|[2609.36603](http://arxiv.org/abs/2609.36603)|null|
+|**2026-09-29**|**Divide and Inject: Can Agents Reconstruct an Indirect Prompt Injection from Fragments?**|Michael Lee et.al.|[2609.36576](http://arxiv.org/abs/2609.36576)|null|
+|**2026-09-29**|**CounterSteer: Suppressing Indirect Prompt Injection with Activation Steering**|Mark Russinovich et.al.|[2609.36570](http://arxiv.org/abs/2609.36570)|null|
+|**2026-09-28**|**Same Bytes, Different Authority: Reserved-Token Representations in Chat-Template Prompt Injection**|Yan Zhan et.al.|[2609.35932](http://arxiv.org/abs/2609.35932)|null|
 |**2026-09-28**|**Tracekit: Tamper-Evident Intent-Reasoning-Action Auditing for Autonomous Coding Agents**|Bravish Ghosh et.al.|[2609.35659](http://arxiv.org/abs/2609.35659)|null|
 |**2026-09-28**|**Nudgeability: Reasoning Models Follow Confidence Signals Without Tracking Their Own Competence**|Rohit Saxena et.al.|[2609.34572](http://arxiv.org/abs/2609.34572)|null|
 |**2026-09-28**|**CoDeL: Co-Evolutionary Defense against Indirect Prompt Injection in LLM-based Agents**|Xiao Yang et.al.|[2609.34463](http://arxiv.org/abs/2609.34463)|null|
@@ -701,12 +710,13 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**Render Before Reading: Visual Rendering as a Prompt Injection Defense**|Jie Zhang et.al.|[2609.36121](http://arxiv.org/abs/2609.36121)|null|
 |**2026-09-24**|**Through Human Eyes and Machine Eyes: Understanding View Mismatch in Video See-Through Extended Reality**|Yanming Xiu et.al.|[2609.29173](http://arxiv.org/abs/2609.29173)|null|
 |**2026-09-08**|**An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks**|Viet K. Nguyen et.al.|[2609.09404](http://arxiv.org/abs/2609.09404)|null|
 |**2026-09-02**|**Beyond the Verdict: Evidence-Aligned Evaluation of Visual Prompt-Injection Guardrails**|Suyoung Lee et.al.|[2609.05535](http://arxiv.org/abs/2609.05535)|null|
@@ -796,5 +806,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
