@@ -1,4 +1,4 @@
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**The Innocent Courier: Covert Exfiltration Through Legitimate LLM Web Fetching**|Alessandro Pegoraro et.al.|[2610.01768](http://arxiv.org/abs/2610.01768)|null|
+|**2026-09-30**|**Memetic Trojans: Social Contagions as Carriers of Adversarial Payloads in Agent Networks**|Birk Torpmann-Hagen et.al.|[2610.00430](http://arxiv.org/abs/2610.00430)|null|
+|**2026-09-30**|**From A2A Attacks to Envelope-Layer Defense: Red-Teaming Evaluation of LLM Agents and a Three-Layer Isomorphic Attack-Defense Model**|Yuelin Han et.al.|[2610.00392](http://arxiv.org/abs/2610.00392)|null|
 |**2026-09-29**|**ContractWarden: Kernel-Enforced Damage Boundaries for AI Agents via Human-Authorized Contracts**|Dongxu Cui et.al.|[2609.38248](http://arxiv.org/abs/2609.38248)|null|
 |**2026-09-29**|**Where Do LLMs Decide to Break the Rules? Mechanistic Localization of Prompt Injection Compliance**|Rui Wen et.al.|[2609.37737](http://arxiv.org/abs/2609.37737)|null|
 |**2026-09-29**|**ToolFence: Fine-Grained Authorization for Secure Tool-Using LLM Agents**|Yanjie Li et.al.|[2609.37196](http://arxiv.org/abs/2609.37196)|null|
@@ -710,7 +713,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -806,5 +809,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261002>back to top</a>)</p>
 
