@@ -15,6 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**Passing the Test You Trained On: Re-evaluating Prompt-Injection Detectors for LLM Agents**|Zhuowen Liu et.al.|[2610.03448](http://arxiv.org/abs/2610.03448)|null|
+|**2026-10-02**|**Persona Guardrail: A Production-Grade Defense Framework for Agentic Systems**|Bijeeta Pal et.al.|[2610.03434](http://arxiv.org/abs/2610.03434)|null|
+|**2026-10-02**|**LS-AR: Future-Predictive Latent Steering in Autoregressive LLMs**|Anubha Gupta et.al.|[2610.03093](http://arxiv.org/abs/2610.03093)|null|
+|**2026-10-02**|**Securing Computer-Use Agents Against Branch Steering Attacks**|Giulio Zingrillo et.al.|[2610.03089](http://arxiv.org/abs/2610.03089)|null|
+|**2026-10-02**|**Containing the Autonomous Operator: A Defense-in-Depth Framework and Reference Architecture for Securing AI Agents on Kubernetes**|Simhadri Podala Narasimha et.al.|[2610.02861](http://arxiv.org/abs/2610.02861)|null|
+|**2026-10-01**|**Evaluating and Improving the Robustness of Large Language Models to Input Sequence Variations**|Narek Maloyan et.al.|[2610.02432](http://arxiv.org/abs/2610.02432)|null|
+|**2026-10-01**|**Prompted to Discriminate: Generalizing Malicious-Input Probes in the Wild**|Elad David et.al.|[2610.02413](http://arxiv.org/abs/2610.02413)|null|
 |**2026-10-01**|**The Innocent Courier: Covert Exfiltration Through Legitimate LLM Web Fetching**|Alessandro Pegoraro et.al.|[2610.01768](http://arxiv.org/abs/2610.01768)|null|
 |**2026-09-30**|**Memetic Trojans: Social Contagions as Carriers of Adversarial Payloads in Agent Networks**|Birk Torpmann-Hagen et.al.|[2610.00430](http://arxiv.org/abs/2610.00430)|null|
 |**2026-09-30**|**From A2A Attacks to Envelope-Layer Defense: Red-Teaming Evaluation of LLM Agents and a Three-Layer Isomorphic Attack-Defense Model**|Yuelin Han et.al.|[2610.00392](http://arxiv.org/abs/2610.00392)|null|
