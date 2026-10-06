@@ -1,4 +1,4 @@
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents**|Mohamed Dhouib et.al.|[2610.06401](http://arxiv.org/abs/2610.06401)|null|
+|**2026-10-05**|**TrustMI: Causally controlling how assistants trust their users**|Théo Lasnier et.al.|[2610.06064](http://arxiv.org/abs/2610.06064)|null|
+|**2026-10-05**|**Compromise Is Not Consequence: Evaluating Task-Scoped Authorization in LLM Agents with Paired Replay**|Tural Hagverdiyev et.al.|[2610.05840](http://arxiv.org/abs/2610.05840)|null|
+|**2026-10-05**|**Can CaMeLs Talk? Securing Multi-Agent Systems Against Indirect Prompt Injection Attacks**|James Peters-Gill et.al.|[2610.05640](http://arxiv.org/abs/2610.05640)|null|
+|**2026-10-04**|**Readable Before Actionable: Causal Tracing of Indirect Prompt Injection**|Zhe Yu et.al.|[2610.05295](http://arxiv.org/abs/2610.05295)|null|
+|**2026-10-03**|**Large Language Models and Augmented Democracy**|Jairo Gudiño-Rosero et.al.|[2610.04412](http://arxiv.org/abs/2610.04412)|null|
+|**2026-10-03**|**Self-Reflection Fine-Tuning: Enhancing Agent Security against Prompt Injection Attacks from Failure Experience**|Zixuan Wang et.al.|[2610.04269](http://arxiv.org/abs/2610.04269)|null|
+|**2026-10-02**|**Self-Propagating Misalignment in LLM Agents, and Why Auditing or Disabling Memory Is Not Enough**|Debeshee Das et.al.|[2610.04083](http://arxiv.org/abs/2610.04083)|null|
+|**2026-10-02**|**Learning Robust Personalized Prompts for LLM-Driven Sequential Recommendation**|Xiaolin Zheng et.al.|[2610.03923](http://arxiv.org/abs/2610.03923)|null|
 |**2026-10-02**|**Passing the Test You Trained On: Re-evaluating Prompt-Injection Detectors for LLM Agents**|Zhuowen Liu et.al.|[2610.03448](http://arxiv.org/abs/2610.03448)|null|
 |**2026-10-02**|**Persona Guardrail: A Production-Grade Defense Framework for Agentic Systems**|Bijeeta Pal et.al.|[2610.03434](http://arxiv.org/abs/2610.03434)|null|
 |**2026-10-02**|**LS-AR: Future-Predictive Latent Steering in Autoregressive LLMs**|Anubha Gupta et.al.|[2610.03093](http://arxiv.org/abs/2610.03093)|null|
@@ -720,7 +729,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -730,7 +739,7 @@
 |**2026-09-24**|**Through Human Eyes and Machine Eyes: Understanding View Mismatch in Video See-Through Extended Reality**|Yanming Xiu et.al.|[2609.29173](http://arxiv.org/abs/2609.29173)|null|
 |**2026-09-08**|**An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks**|Viet K. Nguyen et.al.|[2609.09404](http://arxiv.org/abs/2609.09404)|null|
 |**2026-09-02**|**Beyond the Verdict: Evidence-Aligned Evaluation of Visual Prompt-Injection Guardrails**|Suyoung Lee et.al.|[2609.05535](http://arxiv.org/abs/2609.05535)|null|
-|**2026-08-31**|**SIR: Self-improving Red-teaming for Compute Use Agents**|Chen Xiong et.al.|[2608.30207](http://arxiv.org/abs/2608.30207)|null|
+|**2026-10-03**|**SIR: Self-improving Red-teaming for Compute Use Agents**|Chen Xiong et.al.|[2608.30207](http://arxiv.org/abs/2608.30207)|null|
 |**2026-08-06**|**Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots**|S. M . Bhagya P. Samarakoon et.al.|[2608.05715](http://arxiv.org/abs/2608.05715)|null|
 |**2026-08-06**|**PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents**|He Zhang et.al.|[2608.05495](http://arxiv.org/abs/2608.05495)|null|
 |**2026-08-06**|**Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents**|Jia-Chen Zhang et.al.|[2608.02018](http://arxiv.org/abs/2608.02018)|null|
@@ -816,5 +825,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
