@@ -1,4 +1,4 @@
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,11 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**AgentTracer: Tracing Indirect Prompt Injection Attack through Fine-Grained Intention-Execution Alignment**|Zitong Yao et.al.|[2610.09935](http://arxiv.org/abs/2610.09935)|null|
+|**2026-10-07**|**Package Hallucination Attacks on Coding Agents through Prompt Injection in Rule Files**|Yupu Wang et.al.|[2610.09264](http://arxiv.org/abs/2610.09264)|null|
+|**2026-10-06**|**ASPIRE: Agentic Safety & Prompt Injection Red-teaming Engine**|Pengfei He et.al.|[2610.08951](http://arxiv.org/abs/2610.08951)|null|
 |**2026-10-06**|**Secure Speculative Decoding for Large Language Models**|Yichi Zhang et.al.|[2610.08678](http://arxiv.org/abs/2610.08678)|null|
 |**2026-10-06**|**Surviving the Router: Optimizing Skill Injections for Retrieval and Execution**|Haneen Najjar et.al.|[2610.08098](http://arxiv.org/abs/2610.08098)|null|
 |**2026-10-05**|**Towards a Unified Misuse Monitoring Benchmark**|Aniruddh Pramod et.al.|[2610.07089](http://arxiv.org/abs/2610.07089)|null|
 |**2026-10-03**|**APEX: Active Protection at Execution Boundaries for LLM Agents**|Xinran Zheng et.al.|[2610.06966](http://arxiv.org/abs/2610.06966)|null|
-|**2026-10-05**|**RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents**|Mohamed Dhouib et.al.|[2610.06401](http://arxiv.org/abs/2610.06401)|null|
+|**2026-10-07**|**RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents**|Mohamed Dhouib et.al.|[2610.06401](http://arxiv.org/abs/2610.06401)|null|
 |**2026-10-05**|**TrustMI: Causally controlling how assistants trust their users**|Théo Lasnier et.al.|[2610.06064](http://arxiv.org/abs/2610.06064)|null|
 |**2026-10-05**|**Compromise Is Not Consequence: Evaluating Task-Scoped Authorization in LLM Agents with Paired Replay**|Tural Hagverdiyev et.al.|[2610.05840](http://arxiv.org/abs/2610.05840)|null|
 |**2026-10-05**|**Can CaMeLs Talk? Securing Multi-Agent Systems Against Indirect Prompt Injection Attacks**|James Peters-Gill et.al.|[2610.05640](http://arxiv.org/abs/2610.05640)|null|
@@ -733,7 +736,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -829,5 +832,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
