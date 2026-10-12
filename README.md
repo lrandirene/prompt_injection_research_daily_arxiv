@@ -279,10 +279,10 @@
 |**2026-05-17**|**ASPI: Seeking Ambiguity Clarification Amplifies Prompt Injection Vulnerability in LLM Agents**|Udari Madhushani Sehwag et.al.|[2605.17324](http://arxiv.org/abs/2605.17324)|null|
 |**2026-05-16**|**STRIDE-AI: A Threat Modeling Framework for Generative AI Security Assessment**|Tsafac Nkombong Regine Cyrille et.al.|[2605.17163](http://arxiv.org/abs/2605.17163)|null|
 |**2026-05-13**|**Proof-Carrying Certificates for LLM Pipelines: A Trust-Boundary Architecture**|George Koomullil et.al.|[2605.16407](http://arxiv.org/abs/2605.16407)|null|
-|**2026-05-15**|**FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast**|Igor Bogdanov et.al.|[2605.16233](http://arxiv.org/abs/2605.16233)|null|
+|**2026-05-15**|**FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast**|Igor Bogdanov et.al.|[2605.16233](http://arxiv.org/abs/2605.16233)|**[link](https://github.com/isbogdanov/forge-protocol)**|
 |**2026-05-18**|**Hidden in Memory: Sleeper Memory Poisoning in LLM Agents**|Sidharth Pulipaka et.al.|[2605.15338](http://arxiv.org/abs/2605.15338)|null|
 |**2026-05-14**|**Web Agents Should Adopt the Plan-Then-Execute Paradigm**|Julien Piet et.al.|[2605.14290](http://arxiv.org/abs/2605.14290)|null|
-|**2026-05-13**|**No Attack Required: Semantic Fuzzing for Specification Violations in Agent Skills**|Ying Li et.al.|[2605.13044](http://arxiv.org/abs/2605.13044)|null|
+|**2026-05-13**|**No Attack Required: Semantic Fuzzing for Specification Violations in Agent Skills**|Ying Li et.al.|[2605.13044](http://arxiv.org/abs/2605.13044)|**[link](https://github.com/DeeVault/MCPSec)**|
 |**2026-05-12**|**IPI-proxy: An Intercepting Proxy for Red-Teaming Web-Browsing AI Agents Against Indirect Prompt Injection**|Chia-Pei et.al.|[2605.11868](http://arxiv.org/abs/2605.11868)|null|
 |**2026-05-11**|**The Granularity Mismatch in Agent Security: Argument-Level Provenance Solves Enforcement and Isolates the LLM Reasoning Bottleneck**|Linfeng Fan et.al.|[2605.11039](http://arxiv.org/abs/2605.11039)|null|
 |**2026-05-10**|**AgentShield: Deception-based Compromise Detection for Tool-using LLM Agents**|Yassin H. Rassul et.al.|[2605.11026](http://arxiv.org/abs/2605.11026)|null|
@@ -513,7 +513,7 @@
 |**2026-03-25**|**SafeSieve: From Heuristics to Experience in Progressive Pruning for LLM-based Multi-Agent Communication**|Ruijia Zhang et.al.|[2508.11733](http://arxiv.org/abs/2508.11733)|null|
 |**2026-01-08**|**MCP-Guard: A Multi-Stage Defense-in-Depth Framework for Securing Model Context Protocol in Agentic AI**|Wenpeng Xing et.al.|[2508.10991](http://arxiv.org/abs/2508.10991)|null|
 |**2025-08-18**|**Can AI Keep a Secret? Contextual Integrity Verification: A Provable Security Architecture for LLMs**|Aayush Gupta et.al.|[2508.09288](http://arxiv.org/abs/2508.09288)|null|
-|**2025-08-11**|**BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks**|Rui Miao et.al.|[2508.08127](http://arxiv.org/abs/2508.08127)|null|
+|**2025-08-11**|**BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks**|Rui Miao et.al.|[2508.08127](http://arxiv.org/abs/2508.08127)|**[link](https://github.com/MR9812/BlindGuard)**|
 |**2025-08-08**|**Quantifying Conversation Drift in MCP via Latent Polytope**|Haoran Shi et.al.|[2508.06418](http://arxiv.org/abs/2508.06418)|null|
 |**2026-02-28**|**Prompt Injection Vulnerability of Consensus Generating Applications in Digital Democracy**|Jairo Gudiño-Rosero et.al.|[2508.04281](http://arxiv.org/abs/2508.04281)|null|
 |**2025-08-05**|**AttnTrace: Attention-based Context Traceback for Long-Context LLMs**|Yanting Wang et.al.|[2508.03793](http://arxiv.org/abs/2508.03793)|null|
