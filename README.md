@@ -1,4 +1,4 @@
-## Updated on 2026.10.13
+## Updated on 2026.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-13**|**Towards Safe Autonomy for Computer Use**|Dominik Seip et.al.|[2610.18508](http://arxiv.org/abs/2610.18508)|null|
+|**2026-10-13**|**Kairos: Transactional Security Enforcement at the System Boundary for LLM Agents**|Kristoffer Hempel et.al.|[2610.18457](http://arxiv.org/abs/2610.18457)|null|
+|**2026-10-12**|**The Agent Knew: Internal States Forecast Unauthorized Actions and Stop Them, and the Lies That Follow**|Arya Fayyazi et.al.|[2610.17301](http://arxiv.org/abs/2610.17301)|null|
+|**2026-10-12**|**StableJudge: A Lightweight Adversarial Defense Framework for LLM-as-a-Judge**|Anning Hu et.al.|[2610.16814](http://arxiv.org/abs/2610.16814)|null|
+|**2026-10-12**|**Computational Reflective Equilibrium for Agentic AI: A Rawlsian Alignment Scaffold for Governance**|Quanyan Zhu et.al.|[2610.16015](http://arxiv.org/abs/2610.16015)|null|
+|**2026-10-10**|**Only What You've Signed up For: Secure Workflows with Constrained Diffusion Agents**|Michael Cardei et.al.|[2610.15177](http://arxiv.org/abs/2610.15177)|null|
 |**2026-10-08**|**LTBD: Learnable Trust-Boundary Delimiters for Prompt Injection Defense**|Luman Zhao et.al.|[2610.11634](http://arxiv.org/abs/2610.11634)|null|
 |**2026-10-07**|**BRANCH: Bypassing Multi-Scanner AI Guardrails**|William Hackett et.al.|[2610.10742](http://arxiv.org/abs/2610.10742)|null|
 |**2026-10-07**|**AgentTracer: Tracing Indirect Prompt Injection Attack through Fine-Grained Intention-Execution Alignment**|Zitong Yao et.al.|[2610.09935](http://arxiv.org/abs/2610.09935)|null|
@@ -738,7 +744,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -834,5 +840,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
 
