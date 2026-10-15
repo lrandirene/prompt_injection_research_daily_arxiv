@@ -1,4 +1,4 @@
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**Are You Reading the Right Thing? Rethinking Internal Signals for Prompt-Injection Detection**|Sarthak Gupta et.al.|[2610.19452](http://arxiv.org/abs/2610.19452)|null|
+|**2026-10-14**|**AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety**|Chenxu Wang et.al.|[2610.19422](http://arxiv.org/abs/2610.19422)|null|
+|**2026-10-13**|**TRACER: Trace-Regularized Training Against Indirect Prompt Injection**|Kshitij Mishra et.al.|[2610.19133](http://arxiv.org/abs/2610.19133)|null|
 |**2026-10-13**|**Towards Safe Autonomy for Computer Use**|Dominik Seip et.al.|[2610.18508](http://arxiv.org/abs/2610.18508)|null|
 |**2026-10-13**|**Kairos: Transactional Security Enforcement at the System Boundary for LLM Agents**|Kristoffer Hempel et.al.|[2610.18457](http://arxiv.org/abs/2610.18457)|null|
 |**2026-10-12**|**The Agent Knew: Internal States Forecast Unauthorized Actions and Stop Them, and the Lies That Follow**|Arya Fayyazi et.al.|[2610.17301](http://arxiv.org/abs/2610.17301)|null|
@@ -744,7 +747,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -840,5 +843,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
 
