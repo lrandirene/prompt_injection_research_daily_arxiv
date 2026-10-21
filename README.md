@@ -1,4 +1,4 @@
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents**|Zhiyue Xu et.al.|[2610.28425](http://arxiv.org/abs/2610.28425)|null|
+|**2026-10-20**|**Context-Aware Prompt Injection Detection via Small Language Models in RAG Pipelines: nokast-secureRAG**|Abhishek Rai et.al.|[2610.28364](http://arxiv.org/abs/2610.28364)|null|
 |**2026-10-19**|**Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents**|Mengxiao Wang et.al.|[2610.26438](http://arxiv.org/abs/2610.26438)|null|
 |**2026-10-19**|**SpanGuard: Decoupling Instruction Localization from Authorization for Lightweight IPI Defense**|Yinxiang Wang et.al.|[2610.26013](http://arxiv.org/abs/2610.26013)|null|
 |**2026-10-19**|**RAGLeak: Supply-Chain Privacy Backdoors in Retrieval-Augmented Generation**|Yuchen Chen et.al.|[2610.25937](http://arxiv.org/abs/2610.25937)|null|
@@ -759,7 +761,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -856,5 +858,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
