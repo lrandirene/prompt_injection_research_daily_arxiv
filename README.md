@@ -1,4 +1,4 @@
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action**|Chao Gu et.al.|[2610.31376](http://arxiv.org/abs/2610.31376)|null|
 |**2026-10-21**|**Prompt Injection Through Forensic Evidence: A Taxonomy and Proof of Concept of Anti-Forensic Attacks on LLM-Assisted Digital Investigations**|Frank Breitinger et.al.|[2610.29747](http://arxiv.org/abs/2610.29747)|null|
 |**2026-10-21**|**Where AI Vulnerability Discovery Harnesses Go Quiet: Structural False Negatives and Hidden Vulnerabilities**|Gadi Evron et.al.|[2610.29379](http://arxiv.org/abs/2610.29379)|null|
 |**2026-10-20**|**Attention-based Classification for Indirect Prompt Injection**|Amelia Kawasaki et.al.|[2610.28988](http://arxiv.org/abs/2610.28988)|null|
@@ -765,12 +766,13 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**MPIDetector: Detecting Multi-modal Prompt Injection via LLM-based Reasoning**|Yiheng Li et.al.|[2610.30202](http://arxiv.org/abs/2610.30202)|null|
 |**2026-10-16**|**MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection**|Songping Wang et.al.|[2610.23307](http://arxiv.org/abs/2610.23307)|null|
 |**2026-09-28**|**Render Before Reading: Visual Rendering as a Prompt Injection Defense**|Jie Zhang et.al.|[2609.36121](http://arxiv.org/abs/2609.36121)|null|
 |**2026-09-24**|**Through Human Eyes and Machine Eyes: Understanding View Mismatch in Video See-Through Extended Reality**|Yanming Xiu et.al.|[2609.29173](http://arxiv.org/abs/2609.29173)|null|
@@ -862,5 +864,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
