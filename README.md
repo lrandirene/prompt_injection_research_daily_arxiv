@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**On Task, Off Track: Benchmarking LLM and Agent Robustness to Near-Target Prompt Injection**|Yuyang Gong et.al.|[2610.32531](http://arxiv.org/abs/2610.32531)|null|
 |**2026-10-22**|**Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action**|Chao Gu et.al.|[2610.31376](http://arxiv.org/abs/2610.31376)|null|
 |**2026-10-21**|**Prompt Injection Through Forensic Evidence: A Taxonomy and Proof of Concept of Anti-Forensic Attacks on LLM-Assisted Digital Investigations**|Frank Breitinger et.al.|[2610.29747](http://arxiv.org/abs/2610.29747)|null|
 |**2026-10-21**|**Where AI Vulnerability Discovery Harnesses Go Quiet: Structural False Negatives and Hidden Vulnerabilities**|Gadi Evron et.al.|[2610.29379](http://arxiv.org/abs/2610.29379)|null|
