@@ -1,4 +1,4 @@
-## Updated on 2026.10.25
+## Updated on 2026.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -551,7 +551,7 @@
 |**2026-01-07**|**Attractive Metadata Attack: Inducing LLM Agents to Invoke Malicious Tools**|Kanghua Mo et.al.|[2508.02110](http://arxiv.org/abs/2508.02110)|null|
 |**2025-11-18**|**AgentArmor: Enforcing Program Analysis on Agent Runtime Trace to Defend Against Prompt Injection**|Peiran Wang et.al.|[2508.01249](http://arxiv.org/abs/2508.01249)|null|
 |**2025-08-01**|**LeakSealer: A Semisupervised Defense for LLMs Against Prompt Injection and Leakage Attacks**|Francesco Panebianco et.al.|[2508.00602](http://arxiv.org/abs/2508.00602)|null|
-|**2026-02-23**|**Role-Aware Language Models for Secure and Contextualized Access Control in Organizations**|Saeed Almheiri et.al.|[2507.23465](http://arxiv.org/abs/2507.23465)|null|
+|**2026-02-23**|**Role-Aware Language Models for Secure and Contextualized Access Control in Organizations**|Saeed Almheiri et.al.|[2507.23465](http://arxiv.org/abs/2507.23465)|**[link](https://github.com/SaeedAlmheiri/role-aware-llm)**|
 |**2025-12-12**|**Counterfactual Evaluation for Blind Attack Detection in LLM-based Evaluation Systems**|Lijia Liu et.al.|[2507.23453](http://arxiv.org/abs/2507.23453)|null|
 |**2025-07-28**|**Security Challenges in AI Agent Deployment: Insights from a Large Scale Public Competition**|Andy Zou et.al.|[2507.20526](http://arxiv.org/abs/2507.20526)|null|
 |**2025-07-21**|**Multi-Stage Prompt Inference Attacks on Enterprise LLM Systems**|Andrii Balashov et.al.|[2507.15613](http://arxiv.org/abs/2507.15613)|null|
@@ -766,7 +766,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20261025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -864,5 +864,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20261025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
