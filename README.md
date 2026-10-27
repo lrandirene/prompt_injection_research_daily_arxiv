@@ -1,4 +1,4 @@
-## Updated on 2026.10.26
+## Updated on 2026.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-26**|**Then there is prompt injection, a malicious email, ...: The Wild Wide West of OpenClaw Agentic System Security**|Mostafijur Rahman Akhond et.al.|[2610.35451](http://arxiv.org/abs/2610.35451)|null|
+|**2026-10-26**|**Scope-Gap Injection: Exploiting Evaluator Channel Blind Spots in the OpenClaw Agent Security Competition**|Weihang Niu et.al.|[2610.34777](http://arxiv.org/abs/2610.34777)|null|
+|**2026-10-25**|**SentryBench: A Cost-Sensitive Benchmark for Adversarial Robustness of Tool-Using LLM Agents in Public-Safety Deployments**|Md Abu Yusuf et.al.|[2610.34535](http://arxiv.org/abs/2610.34535)|null|
+|**2026-10-23**|**Deletion, Substitution, Repair and Transplant: Component Attribution in BARBICAN, a Layered Prompt-Injection Gateway for MCP**|İpek Abasıkeleş Turgut et.al.|[2610.33198](http://arxiv.org/abs/2610.33198)|null|
 |**2026-10-23**|**On Task, Off Track: Benchmarking LLM and Agent Robustness to Near-Target Prompt Injection**|Yuyang Gong et.al.|[2610.32531](http://arxiv.org/abs/2610.32531)|null|
 |**2026-10-22**|**Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action**|Chao Gu et.al.|[2610.31376](http://arxiv.org/abs/2610.31376)|null|
 |**2026-10-21**|**Prompt Injection Through Forensic Evidence: A Taxonomy and Proof of Concept of Anti-Forensic Attacks on LLM-Assisted Digital Investigations**|Frank Breitinger et.al.|[2610.29747](http://arxiv.org/abs/2610.29747)|null|
@@ -767,7 +771,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -865,5 +869,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
 
