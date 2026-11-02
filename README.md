@@ -480,7 +480,7 @@
 |**2025-11-19**|**Securing AI Agents Against Prompt Injection Attacks**|Badrinath Ramakrishnan et.al.|[2511.15759](http://arxiv.org/abs/2511.15759)|null|
 |**2025-11-19**|**Taxonomy, Evaluation and Exploitation of IPI-Centric LLM Agent Defense Frameworks**|Zimo Ji et.al.|[2511.15203](http://arxiv.org/abs/2511.15203)|null|
 |**2025-11-15**|**Privacy-Preserving Prompt Injection Detection for LLMs Using Federated Learning and Embedding-Based NLP Classification**|Hasini Jayathilaka et.al.|[2511.12295](http://arxiv.org/abs/2511.12295)|null|
-|**2025-11-13**|**PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization**|Runpeng Geng et.al.|[2511.10720](http://arxiv.org/abs/2511.10720)|null|
+|**2025-11-13**|**PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization**|Runpeng Geng et.al.|[2511.10720](http://arxiv.org/abs/2511.10720)|**[link](https://github.com/sleeepeer/PISanitizer)**|
 |**2025-11-09**|**RAG-targeted Adversarial Attack on LLM-based Threat Detection and Mitigation Framework**|Seif Ikbarieh et.al.|[2511.06212](http://arxiv.org/abs/2511.06212)|null|
 |**2026-03-24**|**Injecting Falsehoods: Adversarial Man-in-the-Middle Attacks Undermining Factual Recall in LLMs**|Alina Fastowski et.al.|[2511.05919](http://arxiv.org/abs/2511.05919)|**[link](https://github.com/afastowski/llm_attack)**|
 |**2026-01-22**|**Can LLM Infer Risk Information From MCP Server System Logs?**|Jiayi Fu et.al.|[2511.05867](http://arxiv.org/abs/2511.05867)|null|
@@ -522,7 +522,7 @@
 |**2025-11-14**|**SecInfer: Preventing Prompt Injection via Inference-time Scaling**|Yupei Liu et.al.|[2509.24967](http://arxiv.org/abs/2509.24967)|null|
 |**2026-01-29**|**SafeSearch: Automated Red-Teaming of LLM-Based Search Agents**|Jianshuo Dong et.al.|[2509.23694](http://arxiv.org/abs/2509.23694)|null|
 |**2026-02-15**|**ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search**|Zeyu Shen et.al.|[2509.23519](http://arxiv.org/abs/2509.23519)|null|
-|**2026-01-30**|**ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents**|Hwan Chang et.al.|[2509.22830](http://arxiv.org/abs/2509.22830)|null|
+|**2026-01-30**|**ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents**|Hwan Chang et.al.|[2509.22830](http://arxiv.org/abs/2509.22830)|**[link](https://github.com/hwanchang00/ChatInject)**|
 |**2025-09-26**|**"Your AI, My Shell": Demystifying Prompt Injection Attacks on Agentic AI Coding Editors**|Yue Liu et.al.|[2509.22040](http://arxiv.org/abs/2509.22040)|null|
 |**2025-09-23**|**LLMZ+: Contextual Prompt Whitelist Principles for Agentic LLMs**|Tom Pawelek et.al.|[2509.18557](http://arxiv.org/abs/2509.18557)|null|
 |**2025-09-22**|**D-REX: A Benchmark for Detecting Deceptive Reasoning in Large Language Models**|Satyapriya Krishna et.al.|[2509.17938](http://arxiv.org/abs/2509.17938)|null|
@@ -661,7 +661,7 @@
 |**2025-10-04**|**Can Indirect Prompt Injection Attacks Be Detected and Removed?**|Yulin Chen et.al.|[2502.16580](http://arxiv.org/abs/2502.16580)|null|
 |**2025-04-07**|**A Cautionary Tale About "Neutrally" Informative AI Tools Ahead of the 2025 Federal Elections in Germany**|Ina Dormuth et.al.|[2502.15568](http://arxiv.org/abs/2502.15568)|null|
 |**2025-02-19**|**What are Models Thinking about? Understanding Large Language Model Hallucinations "Psychology" through Model Inner State Analysis**|Peiran Wang et.al.|[2502.13490](http://arxiv.org/abs/2502.13490)|null|
-|**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|null|
+|**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|**[link](https://github.com/huawei-lin/UniGuardian)**|
 |**2025-11-17**|**The Hidden Risks of Large Reasoning Models: A Safety Assessment of R1**|Kaiwen Zhou et.al.|[2502.12659](http://arxiv.org/abs/2502.12659)|null|
 |**2025-02-16**|**G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems**|Shilong Wang et.al.|[2502.11127](http://arxiv.org/abs/2502.11127)|null|
 |**2025-02-16**|**Prompt Inject Detection with Generative Explanation as an Investigative Tool**|Jonathan Pan et.al.|[2502.11006](http://arxiv.org/abs/2502.11006)|null|
