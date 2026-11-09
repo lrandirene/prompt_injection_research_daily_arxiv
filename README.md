@@ -17,10 +17,10 @@
 |---|---|---|---|---|
 |**2026-11-06**|**Notwithstanding Anything to the Contrary, Ignore All Instructions: Measuring Prompt Injection Guards on Legal Contract Review Attacks**|Mark Heimann et.al.|[2611.08834](http://arxiv.org/abs/2611.08834)|null|
 |**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
-|**2026-11-05**|**Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks**|Rongting Zhang et.al.|[2611.07640](http://arxiv.org/abs/2611.07640)|**[link](https://github.com/amazon-science/task-tampering-prompt-injection)**|
+|**2026-11-05**|**Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks**|Rongting Zhang et.al.|[2611.07640](http://arxiv.org/abs/2611.07640)|null|
 |**2026-11-04**|**SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection**|Woosang Lim et.al.|[2611.07222](http://arxiv.org/abs/2611.07222)|null|
 |**2026-11-04**|**SecureGARD: Dynamic Ontology-Guided Governance for Secure Tool-Using LLM Agents**|Guoqin Xiong et.al.|[2611.06682](http://arxiv.org/abs/2611.06682)|null|
-|**2026-11-04**|**ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud**|Yutao Wu et.al.|[2611.04879](http://arxiv.org/abs/2611.04879)|**[link](https://github.com/wuyoscar/scamworld-bench)**|
+|**2026-11-04**|**ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud**|Yutao Wu et.al.|[2611.04879](http://arxiv.org/abs/2611.04879)|null|
 |**2026-11-03**|**Right Tool, Wrong Parameters: Defending LLM Agents Against Parameter Poisoning**|Yao Wang et.al.|[2611.04673](http://arxiv.org/abs/2611.04673)|null|
 |**2026-11-03**|**From Guidelines to Practice: Defining Requirements for AI Red-Teaming Tools**|Gia Phong Tran et.al.|[2611.04271](http://arxiv.org/abs/2611.04271)|null|
 |**2026-11-02**|**ATrust: Adaptive Trust Boundary Expansion for Securing LLM Agents**|Xu Zhang et.al.|[2611.02741](http://arxiv.org/abs/2611.02741)|null|
