@@ -266,7 +266,7 @@
 |**2026-06-19**|**Safe to Check, Unsafe to Use: Relinking at the Compression Boundary of LLM Agents**|Zesen Liu et.al.|[2606.21732](http://arxiv.org/abs/2606.21732)|null|
 |**2026-06-19**|**AgenticOS: An Intent-Oriented Secure Operating System Architecture for Autonomous AI Agents**|Zhen Zhao et.al.|[2606.21129](http://arxiv.org/abs/2606.21129)|null|
 |**2026-06-19**|**Local LLM Agents as Vulnerable Runtimes:A Source-Code Audit of the Agent Runtime Layer**|Zhengsong Zhang et.al.|[2606.21071](http://arxiv.org/abs/2606.21071)|null|
-|**2026-06-18**|**Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning**|Shanghao Shi et.al.|[2606.20922](http://arxiv.org/abs/2606.20922)|null|
+|**2026-06-18**|**Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning**|Shanghao Shi et.al.|[2606.20922](http://arxiv.org/abs/2606.20922)|**[link](https://github.com/shishishi123/Tool-Guard)**|
 |**2026-06-18**|**Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems**|Reza Soosahabi et.al.|[2606.20470](http://arxiv.org/abs/2606.20470)|null|
 |**2026-06-17**|**A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots**|Gulshan Saleem et.al.|[2606.19660](http://arxiv.org/abs/2606.19660)|null|
 |**2026-06-17**|**Analyzing the Narration Gap in LLM-Solver Loops**|Zunchen Huang et.al.|[2606.19588](http://arxiv.org/abs/2606.19588)|null|
