@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-09**|**Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks**|Dario Pasquini et.al.|[2611.12386](http://arxiv.org/abs/2611.12386)|null|
 |**2026-11-09**|**Harness Matters: Measuring and Dissecting Security Resilience in Web Agents**|Xinyi Wu et.al.|[2611.11971](http://arxiv.org/abs/2611.11971)|null|
 |**2026-11-08**|**Treating the Model as an Untrusted Component: Deterministic Policy Enforcement, Human Approval and Taint Tracking Against Prompt Injection in Tool-Using Agents, with Validation on Open-Weights Models**|Mustafa S. Aljumaily et.al.|[2611.11571](http://arxiv.org/abs/2611.11571)|null|
 |**2026-11-08**|**On the Relative Security of Prompt Injection: Mechanised Definitions, Defences and Verdicts for LLM Agents**|Brijesh Dongol et.al.|[2611.11506](http://arxiv.org/abs/2611.11506)|null|
