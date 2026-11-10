@@ -1,4 +1,4 @@
-## Updated on 2026.11.09
+## Updated on 2026.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-09**|**Harness Matters: Measuring and Dissecting Security Resilience in Web Agents**|Xinyi Wu et.al.|[2611.11971](http://arxiv.org/abs/2611.11971)|null|
+|**2026-11-08**|**Treating the Model as an Untrusted Component: Deterministic Policy Enforcement, Human Approval and Taint Tracking Against Prompt Injection in Tool-Using Agents, with Validation on Open-Weights Models**|Mustafa S. Aljumaily et.al.|[2611.11571](http://arxiv.org/abs/2611.11571)|null|
+|**2026-11-08**|**On the Relative Security of Prompt Injection: Mechanised Definitions, Defences and Verdicts for LLM Agents**|Brijesh Dongol et.al.|[2611.11506](http://arxiv.org/abs/2611.11506)|null|
+|**2026-11-08**|**Least-Privilege Auditing of Agent Tool Calls with Intent Graphs and Reasoning-Guided Escalation**|Doron Shavit et.al.|[2611.11305](http://arxiv.org/abs/2611.11305)|null|
+|**2026-11-07**|**Agents of Chaos: A Systematization of Knowledge (SoK) on Malicious Attacks on Agentic AI Systems**|Thanh M. Truong-Le et.al.|[2611.10843](http://arxiv.org/abs/2611.10843)|null|
+|**2026-11-06**|**Enmo Safety: External, Non-invasive, Model-agnostic Oversight for Off-the-Shelf Language Models**|Mohammed Nayeem Khan et.al.|[2611.10099](http://arxiv.org/abs/2611.10099)|null|
+|**2026-11-05**|**MetaPI: Constructing Prompt Injection Benchmarks from LLM Agent Benchmark**|Peiran Wang et.al.|[2611.10026](http://arxiv.org/abs/2611.10026)|null|
 |**2026-11-06**|**Notwithstanding Anything to the Contrary, Ignore All Instructions: Measuring Prompt Injection Guards on Legal Contract Review Attacks**|Mark Heimann et.al.|[2611.08834](http://arxiv.org/abs/2611.08834)|null|
 |**2026-11-05**|**The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI**|Julian Kunkel et.al.|[2611.08428](http://arxiv.org/abs/2611.08428)|null|
 |**2026-11-05**|**Beyond Instruction Override: Benchmarking Indirect Prompt Injection with Task-Tampering Attacks**|Rongting Zhang et.al.|[2611.07640](http://arxiv.org/abs/2611.07640)|null|
@@ -799,12 +806,13 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-07**|**CompositionEvidence: Controlling Geometric Evidence for Cinematic Composition Reasoning with Frozen Vision-Language Models**|Yichen He et.al.|[2611.10559](http://arxiv.org/abs/2611.10559)|null|
 |**2026-10-21**|**MPIDetector: Detecting Multi-modal Prompt Injection via LLM-based Reasoning**|Yiheng Li et.al.|[2610.30202](http://arxiv.org/abs/2610.30202)|null|
 |**2026-10-16**|**MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection**|Songping Wang et.al.|[2610.23307](http://arxiv.org/abs/2610.23307)|null|
 |**2026-09-28**|**Render Before Reading: Visual Rendering as a Prompt Injection Defense**|Jie Zhang et.al.|[2609.36121](http://arxiv.org/abs/2609.36121)|null|
@@ -897,5 +905,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
 
