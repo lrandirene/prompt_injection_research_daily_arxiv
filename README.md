@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts**|Zimo Xu et.al.|[2611.17115](http://arxiv.org/abs/2611.17115)|null|
 |**2026-11-12**|**Intent-Aware Protection for AI Agents**|Fady Copty et.al.|[2611.16122](http://arxiv.org/abs/2611.16122)|null|
 |**2026-11-11**|**Smart Model Routing for Order-of-Magnitude LLM Cost Reduction**|Hesham Elbakoury et.al.|[2611.15911](http://arxiv.org/abs/2611.15911)|null|
 |**2026-11-09**|**Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks**|Dario Pasquini et.al.|[2611.12386](http://arxiv.org/abs/2611.12386)|null|
@@ -815,6 +816,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents**|Yiheng Zhao et.al.|[2611.16744](http://arxiv.org/abs/2611.16744)|null|
 |**2026-11-07**|**CompositionEvidence: Controlling Geometric Evidence for Cinematic Composition Reasoning with Frozen Vision-Language Models**|Yichen He et.al.|[2611.10559](http://arxiv.org/abs/2611.10559)|null|
 |**2026-10-21**|**MPIDetector: Detecting Multi-modal Prompt Injection via LLM-based Reasoning**|Yiheng Li et.al.|[2610.30202](http://arxiv.org/abs/2610.30202)|null|
 |**2026-10-16**|**MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection**|Songping Wang et.al.|[2610.23307](http://arxiv.org/abs/2610.23307)|null|
