@@ -1,4 +1,4 @@
-## Updated on 2026.11.18
+## Updated on 2026.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-18**|**PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents**|Lipeng He et.al.|[2611.24362](http://arxiv.org/abs/2611.24362)|null|
+|**2026-11-18**|**AutoPI: Taxonomy-Guided Adaptive Red Teaming for Prompt Injection in LLM Agents**|Stavros Damianakis et.al.|[2611.24313](http://arxiv.org/abs/2611.24313)|**[link](https://github.com/stevendamianakis/autopi)**|
+|**2026-11-18**|**Guarding the Kingdom of Skill-Based Agents in the AI Dynasty of Computation: Control-Flow Integrity for Agent Skills**|Bonan Ruan et.al.|[2611.24185](http://arxiv.org/abs/2611.24185)|null|
 |**2026-11-17**|**Network-Exposed Configuration Attacks on LLM-Controlled Social Robots**|Stanley Akingbola et.al.|[2611.22761](http://arxiv.org/abs/2611.22761)|**[link](https://github.com/akingbolastanley1998-byte/reachy-personality-injection)**|
 |**2026-11-17**|**GapLeak: When Privacy-Preserving LLM-based Web Agents Become a Privacy Risk**|Chaklam Cheong et.al.|[2611.22223](http://arxiv.org/abs/2611.22223)|**[link](https://github.com/Hunter-CCL/GapLeak_release)**|
 |**2026-11-16**|**Evaluating Authorization and Trust Boundaries in Agentic Orchestration Frameworks**|Sahaya Jestus Lazer et.al.|[2611.21259](http://arxiv.org/abs/2611.21259)|null|
@@ -816,12 +819,13 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-18**|**What Survives the Shift from Text to Pixels? Conditional Protection against Prompt Injection in Image-Rendered Documents**|Haoyang Liu et.al.|[2611.24231](http://arxiv.org/abs/2611.24231)|null|
 |**2026-11-12**|**Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents**|Yiheng Zhao et.al.|[2611.16744](http://arxiv.org/abs/2611.16744)|null|
 |**2026-11-07**|**CompositionEvidence: Controlling Geometric Evidence for Cinematic Composition Reasoning with Frozen Vision-Language Models**|Yichen He et.al.|[2611.10559](http://arxiv.org/abs/2611.10559)|null|
 |**2026-10-21**|**MPIDetector: Detecting Multi-modal Prompt Injection via LLM-based Reasoning**|Yiheng Li et.al.|[2610.30202](http://arxiv.org/abs/2610.30202)|null|
@@ -916,5 +920,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
 
