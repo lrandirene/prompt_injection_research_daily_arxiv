@@ -1,4 +1,4 @@
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,11 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**Carried-Over and Agent-Native Threats in the Supply Chain of LLM Agent Skills**|Kaixuan Li et.al.|[2611.30932](http://arxiv.org/abs/2611.30932)|null|
+|**2026-11-23**|**AgentBouncer: Defending Software Engineering Agents via Dynamic System-Call Mediation**|Pascal Joos et.al.|[2611.30621](http://arxiv.org/abs/2611.30621)|null|
+|**2026-11-22**|**Relativising Integrity and Robustness: Prompt Injection and Partitioned Enclaves**|Brijesh Dongol et.al.|[2611.29802](http://arxiv.org/abs/2611.29802)|null|
+|**2026-11-21**|**Who Is Prompt-Injecting Coding Agents? An Empirical Study of Hidden AI-Directed Text on GitHub**|Gabi Nakibly et.al.|[2611.28763](http://arxiv.org/abs/2611.28763)|null|
+|**2026-11-21**|**Automated Safety Analysis for Agentic Workflows**|Yanju Chen et.al.|[2611.28469](http://arxiv.org/abs/2611.28469)|**[link](https://github.com/josemanuel657/AI-for-Security-in-DRIVE-OS)**|
 |**2026-11-20**|**Actions Speak Louder than Words: Stateful Privacy Sniffing of LLM Agents via Behavioral Covert Channels in Web Interactions**|Ruichao Liang et.al.|[2611.27046](http://arxiv.org/abs/2611.27046)|null|
 |**2026-11-20**|**Subverting Tool Arguments: Defense-Evading Metadata Poisoning in LLM Agents**|Shih-Chieh Dai et.al.|[2611.27041](http://arxiv.org/abs/2611.27041)|null|
 |**2026-11-20**|**Keep the Process, Change the Supplier: Runtime Governance for Tool-Using AI Agents**|Deepak Waghmare et.al.|[2611.26966](http://arxiv.org/abs/2611.26966)|null|
 |**2026-11-19**|**Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)**|Mengxiao Wang et.al.|[2611.26553](http://arxiv.org/abs/2611.26553)|null|
-|**2026-11-18**|**PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents**|Lipeng He et.al.|[2611.24362](http://arxiv.org/abs/2611.24362)|null|
+|**2026-11-20**|**PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents**|Lipeng He et.al.|[2611.24362](http://arxiv.org/abs/2611.24362)|null|
 |**2026-11-18**|**AutoPI: Taxonomy-Guided Adaptive Red Teaming for Prompt Injection in LLM Agents**|Stavros Damianakis et.al.|[2611.24313](http://arxiv.org/abs/2611.24313)|**[link](https://github.com/stevendamianakis/autopi)**|
 |**2026-11-18**|**Guarding the Kingdom of Skill-Based Agents in the AI Dynasty of Computation: Control-Flow Integrity for Agent Skills**|Bonan Ruan et.al.|[2611.24185](http://arxiv.org/abs/2611.24185)|null|
 |**2026-11-17**|**Network-Exposed Configuration Attacks on LLM-Controlled Social Robots**|Stanley Akingbola et.al.|[2611.22761](http://arxiv.org/abs/2611.22761)|**[link](https://github.com/akingbolastanley1998-byte/reachy-personality-injection)**|
@@ -823,7 +828,7 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
@@ -925,5 +930,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
