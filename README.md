@@ -1,4 +1,4 @@
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**Latent-in-the-Middle: On the Security of Cross-Model Latent Communication in Multi-Agent Systems**|Manit Baser et.al.|[2611.34278](http://arxiv.org/abs/2611.34278)|null|
+|**2026-11-25**|**The Detour Is the Danger: Preserving Security During LLM Agent Recovery**|Boyang Ma et.al.|[2611.33605](http://arxiv.org/abs/2611.33605)|null|
+|**2026-11-24**|**Poisoning Self-Evolving Security Policies in LLM Agents**|Aymen Noor et.al.|[2611.33385](http://arxiv.org/abs/2611.33385)|null|
 |**2026-11-24**|**Attestation is All You Need: Toward a Zero-Trust Architecture for HPC AI Agents**|Jie Li et.al.|[2611.32958](http://arxiv.org/abs/2611.32958)|null|
 |**2026-11-24**|**CAPTA: Identifying LLMs Behind AI Agents**|Kailun Yan et.al.|[2611.32686](http://arxiv.org/abs/2611.32686)|null|
 |**2026-11-24**|**LLM Agent Authorization Across Context Compaction**|Zeming Fei et.al.|[2611.32194](http://arxiv.org/abs/2611.32194)|null|
@@ -832,12 +835,13 @@
 |**2022-10-10**|**Knowledge Prompts: Injecting World Knowledge into Language Models through Soft Prompts**|Cicero Nogueira dos Santos et.al.|[2210.04726](http://arxiv.org/abs/2210.04726)|null|
 |**2022-07-15**|**Prompt Injection: Parameterization of Fixed Inputs**|Eunbi Choi et.al.|[2206.11349](http://arxiv.org/abs/2206.11349)|**[link](https://github.com/unbiarirang/Fixed-Input-Parameterization)**|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
 ## MultiModal Prompt Injection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**AVERT: Anomalous Value Erasure with Response Testing against Visual Prompt Injection**|Newt Hue-Nam K. Nguyen et.al.|[2611.33532](http://arxiv.org/abs/2611.33532)|null|
 |**2026-11-19**|**SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines**|Dohyeon Kwon et.al.|[2611.26033](http://arxiv.org/abs/2611.26033)|null|
 |**2026-11-18**|**What Survives the Shift from Text to Pixels? Conditional Protection against Prompt Injection in Image-Rendered Documents**|Haoyang Liu et.al.|[2611.24231](http://arxiv.org/abs/2611.24231)|null|
 |**2026-11-12**|**Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents**|Yiheng Zhao et.al.|[2611.16744](http://arxiv.org/abs/2611.16744)|null|
@@ -934,5 +938,5 @@
 |**2024-07-12**|**A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends**|Daizong Liu et.al.|[2407.07403](http://arxiv.org/abs/2407.07403)|null|
 |**2024-08-24**|**Safeguarding Vision-Language Models Against Patched Visual Prompt Injectors**|Jiachen Sun et.al.|[2405.10529](http://arxiv.org/abs/2405.10529)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
